@@ -112,7 +112,7 @@ The tests cover timing-related data contracts, station completeness and balanced
 
 当前完整自动流程接入的是 **DeepSeek（评价）+ Deepgram（语音转文字）**，不是任意厂商的 key 都能直接替换。没有 key 时也可以计时练习、手动填入文字并查看基础反馈。
 
-参考答案之外，我们特别保留了**中文承担主要解释的简洁答题结构**，帮助你理解如何组织一分钟的回答。题库扩充可以交给 Codex 协助，具体提示词与质量要求见[题库扩充指南](docs/ADDING_STATIONS.md)。
+除了英文参考答案，还会提供**以中文为主的简洁答题思路**，帮助你组织一分钟的回答。可以让 Codex 协助扩充题库，具体提示词与检查要求见[题库扩充指南](docs/ADDING_STATIONS.md)。
 
 ## License
 
