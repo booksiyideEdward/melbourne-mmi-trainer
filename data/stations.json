@@ -1,0 +1,752 @@
+[
+  {
+    "title": "The Uneven Community Project",
+    "category": "teamwork",
+    "difficulty": "medium",
+    "scenario": "You are part of a university team preparing a health-promotion workshop for a community centre. Two days before delivery, you discover that one teammate, Alex, has completed very little of their agreed work. Other members want to remove Alex's name from the presentation without speaking to them.",
+    "questions": [
+      "What are the main issues in this situation?",
+      "How would you address the problem with Alex and the rest of the team?",
+      "What would you do if Alex disclosed a serious personal difficulty that limited their contribution?",
+      "How would you reduce the chance of a similar problem occurring in a future team?"
+    ],
+    "model_answers": [
+      "The immediate issue is an incomplete project, but the deeper concerns are fairness, communication, accountability, and possible unmet support needs. Removing Alex's name without a conversation assumes bad intent and denies procedural fairness. At the same time, allowing one person to receive equal credit without contributing may undermine trust and burden others. I would separate observable facts from interpretations: which tasks were agreed, what remains unfinished, and what deadlines are fixed. I would also consider the community centre, whose workshop quality must not suffer. A good response should protect the team's outcome while giving Alex a respectful opportunity to explain, contribute, and access support if circumstances have changed.",
+      "I would first speak with Alex privately and promptly, using neutral observations rather than accusation. I might say that several agreed sections remain incomplete and ask whether anything is preventing progress. I would listen, clarify what can realistically be delivered, and agree on a specific recovery plan with times and responsibilities. I would then update the group without sharing private details, emphasizing the revised allocation and shared goal. If work still could not be completed, I would involve the course coordinator and document the agreements. Decisions about credit should follow published policy, not anger. This approach combines compassion with accountability and keeps the workshop, rather than blame, at the centre.",
+      "I would acknowledge the disclosure, thank Alex for trusting me, and avoid pressing for details they do not wish to share. Compassion does not require ignoring the deadline, so I would ask what contribution is manageable and whether they consent to contacting the coordinator for flexibility or formal support. The team could redistribute urgent tasks, but I would make the burden visible and negotiate it fairly rather than silently expecting others to absorb it. I would protect Alex's confidentiality and share only what is necessary. Credit should reflect institutional rules and the eventual contribution. The aim is a proportionate adjustment that supports Alex while preserving fairness to teammates and reliability for the community partner.",
+      "At the start of future projects, I would establish a written team agreement covering roles, milestones, communication channels, expected response times, and what to do when someone is struggling. Large tasks should be divided into early, visible deliverables so delays emerge before the final days. Brief check-ins could focus on progress, barriers, and requests for help, creating psychological safety without removing responsibility. I would also confirm how contribution will be recorded and how conflicts will be escalated. After this project, I would invite a blame-free debrief about what helped and what failed. Good teamwork is not merely dividing labour; it is building systems that make reliability, candour, and timely support normal."
+    ],
+    "rubric_focus": [
+      "fairness and accountability",
+      "respectful conflict management",
+      "psychological safety",
+      "practical team planning"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "Disagreement During a Clinical Simulation",
+    "category": "teamwork",
+    "difficulty": "hard",
+    "scenario": "During a student clinical simulation, Priya believes the simulated patient is deteriorating and asks the team to call for senior help. Jordan, the team leader, dismisses her concern and continues with the original plan. The room becomes tense and the patient's simulated observations worsen.",
+    "questions": [
+      "What should you do in the moment?",
+      "How would you communicate disagreement without undermining the team leader?",
+      "How would you approach Jordan after the simulation?",
+      "What broader lesson does this scenario offer about effective healthcare teams?"
+    ],
+    "model_answers": [
+      "My first priority would be the simulated patient's safety, while remembering that the exercise is designed to practise real behaviours. I would quickly confirm the concerning observations and state them aloud so the whole team shares the same information. I would then use graded assertiveness: express concern, explain the safety risk, and clearly recommend calling for senior help. If Jordan continued to dismiss the concern, I would repeat the escalation more directly and use the simulation's emergency or facilitator pathway. I would still complete useful immediate tasks within my competence. Hierarchy should coordinate action, but it should never prevent a team member from voicing credible evidence of deterioration.",
+      "I would keep the language specific, calm, and centred on the patient rather than Jordan's authority. For example, I could say that the falling blood pressure and altered responsiveness make me concerned about deterioration, and that I recommend escalating now. I would invite a closed-loop response by asking Jordan to confirm the plan. If there were time, I could propose a brief diagnostic pause so each member contributes observations. This communicates respect while making the risk unmistakable. I would avoid sarcasm, personal criticism, or a parallel conversation that fragments the team. Respectful challenge is not disloyalty; it is a professional duty when safety may be compromised.",
+      "After the simulation, I would ask Jordan for a private, two-way debrief rather than confronting them publicly. I would describe the sequence factually, explain how the dismissal affected my willingness to speak, and ask how they perceived the event. I would also examine my own timing and communication, because my concern may have been correct but poorly expressed. Together, we could identify a phrase or escalation structure to use next time. If Jordan showed a persistent pattern of silencing safety concerns, I would raise it with the facilitator as a learning and safety issue. The goal would be behavioural improvement and shared trust, not proving who won the disagreement.",
+      "The scenario shows that high-performing healthcare teams need both clear leadership and permission to challenge. Diverse observations add value only when people feel safe enough to voice them and leaders respond with curiosity. Teams benefit from shared mental models, explicit escalation language, closed-loop communication, and short pauses when the clinical picture changes. It also illustrates that civility and urgency can coexist: speaking respectfully should not mean speaking vaguely. Finally, debriefing converts conflict into learning by examining systems and behaviours rather than personalities. I would carry forward the idea that leadership is partly measured by how well a leader invites dissent, and followership includes the courage to escalate concerns responsibly."
+    ],
+    "rubric_focus": [
+      "patient safety",
+      "graded assertiveness",
+      "leadership and followership",
+      "reflective debriefing"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "A Fragmented Discharge Handover",
+    "category": "teamwork",
+    "difficulty": "hard",
+    "scenario": "On a student placement, you observe a discharge meeting involving a doctor, nurse, pharmacist, and physiotherapist. Each professional assumes someone else has explained a medication change and mobility restriction to the patient. The patient is about to leave and appears confused.",
+    "questions": [
+      "What risks and team factors do you identify?",
+      "What would you do before the patient leaves?",
+      "How could the team improve future discharge communication?",
+      "What is the student's role when qualified professionals appear to have missed something?"
+    ],
+    "model_answers": [
+      "The patient faces immediate risks from misunderstanding both medication and mobility instructions, potentially causing adverse effects, falls, or readmission. The team appears to have unclear ownership, fragmented information, and untested assumptions about what others communicated. Professional boundaries may have become silos rather than complementary roles. The patient's confusion is also important evidence; delivering information is not the same as achieving understanding. I would consider whether language, hearing, cognition, stress, or health literacy contributes. A safe response requires an integrated plan, named responsibility, and confirmation with the patient. The scenario is less about one careless individual than a coordination failure that needs immediate correction and system learning.",
+      "I would respectfully alert my supervisor that the patient seems uncertain and that two important instructions may not have been confirmed. I would not independently counsel beyond my competence or contradict the team. I would ask that discharge be briefly paused while the appropriate clinician reconciles the medication plan and the physiotherapist or nurse confirms mobility advice. With the patient's consent, a support person and interpreter could be included if useful. The team should use teach-back, asking the patient to explain the plan in their own words, and provide consistent written instructions plus contact details. I would ensure any unresolved concern is escalated before departure rather than assuming someone else will notice.",
+      "The team could adopt a structured discharge checklist with one named coordinator who confirms that each domain is complete. A brief multidisciplinary huddle should reconcile medicines, mobility, follow-up, warning signs, transport, and the patient's goals. Responsibilities should be explicit, documented in one accessible record, and closed with verbal confirmation rather than passive task assignment. Most importantly, the patient should be an active team member: information should be paced, interpreted when necessary, and tested through teach-back. The service could audit readmissions or follow-up calls to identify recurring gaps. Standardisation cannot replace professional judgment, but it can prevent predictable omissions when many people share responsibility across a pressured transition.",
+      "A student has limited authority but still has a duty to raise a credible safety concern. I would communicate through my supervisor or the nearest responsible clinician, clearly distinguishing what I observed from what I infer. I could say that the patient was unable to describe the medication change and appeared unaware of the mobility restriction, then ask whether discharge should pause. I should not present myself as qualified to resolve matters outside my scope, alter instructions, or document on behalf of others. If my first concern were dismissed and risk remained, I would use the placement's escalation pathway. Professional humility includes knowing limits, while professionalism also means not using hierarchy as a reason for silence."
+    ],
+    "rubric_focus": [
+      "interprofessional collaboration",
+      "safe handover",
+      "scope awareness",
+      "patient-centred communication"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "The Quiet Voice in the Planning Group",
+    "category": "teamwork",
+    "difficulty": "easy",
+    "scenario": "Your student society is planning a wellbeing event. Sam, a new member, rarely speaks during meetings. Later, Sam tells you privately that their suggestions are often interrupted and that they are considering leaving the committee.",
+    "questions": [
+      "How would you respond to Sam?",
+      "What could you do at the next meeting?",
+      "How would you respond if another member said Sam simply needs to be more confident?",
+      "What does inclusive teamwork look like in practice?"
+    ],
+    "model_answers": [
+      "I would thank Sam for telling me and acknowledge that repeated interruption can make participation difficult. I would ask what they have experienced, how it has affected them, and what support they would prefer, rather than immediately taking over. Options might include helping them introduce an idea, asking the chair to change facilitation, or raising the pattern without naming Sam. I would not promise complete confidentiality if there were a serious safety issue, but none is apparent here. I would also avoid framing Sam as deficient or unusually sensitive. The goal is to restore meaningful participation and agency while addressing the group behaviour that created the barrier.",
+      "Before the meeting, I would speak with the chair and suggest neutral structures that benefit everyone, such as circulating an agenda, inviting written ideas, using a round-robin for key decisions, and stopping interruptions consistently. During the meeting, I could make space without putting Sam on display: for example, note that we have not heard from several members and invite contributions broadly. If Sam begins speaking and is interrupted, I would redirect politely by saying I would like to hear them finish. I would also support good ideas on their merits and ensure attribution remains clear. Afterwards, I would check privately whether the changes helped and what should be adjusted.",
+      "I would explain that confidence may influence speaking, but the group controls whether contributions receive a fair hearing. Expecting Sam alone to adapt ignores the observed pattern of interruption and may reward the loudest communication style rather than the best ideas. Inclusive teams do not lower standards; they improve access to the discussion so members can meet them. I would invite the colleague to help trial simple meeting norms, such as no interruptions and deliberate turn-taking, then evaluate whether participation and decisions improve. I would keep the conversation about behaviour and outcomes, not label the colleague as prejudiced. That makes change more likely while still challenging an unhelpful assumption.",
+      "Inclusive teamwork means designing participation rather than merely announcing that everyone is welcome. In practice, roles and decisions are transparent, information is shared in advance, different communication styles have routes to contribute, and interruptions or dismissive behaviour are addressed consistently. Leaders actively notice whose perspectives are missing, while avoiding tokenising individuals or asking them to represent an entire group. Credit is attributed accurately and disagreement can occur without humiliation. Inclusion also requires feedback mechanisms, because a process that seems fair to dominant speakers may still exclude others. The outcome is not equal airtime in every moment, but genuine opportunity, psychological safety, and better decisions informed by the team's full range of knowledge."
+    ],
+    "rubric_focus": [
+      "active listening",
+      "inclusive facilitation",
+      "allyship without paternalism",
+      "psychological safety"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "A Teenager Requests Confidential Advice",
+    "category": "ethics",
+    "difficulty": "hard",
+    "scenario": "While volunteering at a supervised youth health service, a 16-year-old asks to speak without their parent present. They disclose that they may be pregnant and insist that nobody, including their parent, be told. You are a medical applicant observing the service, not a clinician.",
+    "questions": [
+      "What ethical considerations are relevant?",
+      "How would you respond within your role?",
+      "When might confidentiality need to be limited?",
+      "How would you support the young person's autonomy while encouraging appropriate help?"
+    ],
+    "model_answers": [
+      "Relevant considerations include confidentiality, emerging autonomy, capacity, wellbeing, safeguarding, and the limits of my non-clinical role. A 16-year-old should not automatically be denied privacy, yet confidentiality is not an absolute promise, particularly if there is serious risk of harm, coercion, abuse, or a legal reporting duty. I would avoid assumptions about family relationships or the pregnancy and recognise that disclosure may carry social or safety consequences. The young person needs accurate clinical advice and a clear explanation of information handling. My task is not to decide their treatment, but to help them reach an appropriate professional promptly while preserving dignity and sharing only necessary information through proper channels.",
+      "I would respond calmly, thank them for trusting me, and explain early that I am an observer rather than a clinician. I would not attempt to diagnose, provide medical instructions, or guarantee secrecy beyond service policy. I would say that a qualified clinician can speak with them privately and explain confidentiality and its limits before they share further details. With their knowledge, I would promptly contact my supervisor and arrange that conversation. I would remain supportive and avoid involving the parent casually or discussing the matter with other staff who do not need to know. If immediate danger became apparent, I would follow the service's safeguarding procedure and seek urgent senior help.",
+      "Confidentiality may need to be limited when there is a serious and imminent risk to the young person or another person, suspected abuse or exploitation, impaired decision-making capacity, or a specific legal or safeguarding obligation. The exact threshold depends on jurisdiction and service policy, so I would seek senior clinical guidance rather than improvise. Any disclosure should be proportionate: share the minimum necessary information with the appropriate person, explain the step to the young person where safe, and document the reasoning. Discomfort, parental expectation, or staff curiosity would not be sufficient reasons. Preserving trust matters, but transparent limits protect both autonomy and safety better than an unrealistic promise of total secrecy.",
+      "I would make the young person an active participant by asking what they understand, what they are worried about, and what support feels safe. A clinician should assess capacity, provide unbiased options, and confirm understanding without pressure. I could encourage them to identify a trusted adult, but I would not make parental involvement a condition unless legally required or necessary for safety. We could explore barriers to support, such as fear of punishment or housing insecurity, and connect them with appropriate services. I would explain each next step and seek consent wherever possible. Supporting autonomy means enabling an informed decision within a safe framework, not leaving a young person to manage a complex situation alone."
+    ],
+    "rubric_focus": [
+      "confidentiality and its limits",
+      "adolescent autonomy",
+      "safeguarding",
+      "scope of role"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "One Remaining Specialist Appointment",
+    "category": "ethics",
+    "difficulty": "hard",
+    "scenario": "A rural clinic has one urgent specialist appointment remaining this month. One patient has severe symptoms but reliable transport to a city hospital. Another has moderately concerning symptoms, no car, limited English, and caring responsibilities that make travel almost impossible. Staff disagree about who should receive the local appointment.",
+    "questions": [
+      "What principles should guide this decision?",
+      "How would you gather information before allocating the appointment?",
+      "Is it fair to consider social barriers as well as clinical severity?",
+      "What system changes could reduce this type of dilemma?"
+    ],
+    "model_answers": [
+      "The decision should be guided by clinical need, expected benefit, urgency, equity, consistency, and transparency. Equal treatment does not always mean identical treatment because practical barriers can determine whether a nominal option is genuinely accessible. However, social disadvantage should not be used casually to override serious clinical risk. I would avoid choosing based on sympathy, status, or who complains most loudly. A defensible process would use an agreed triage framework, involve the responsible clinician, document reasons, and seek alternatives for both patients. The scarce appointment is only one resource; transport assistance, telehealth, expedited city review, or safety-netting may change the options and reduce an apparent zero-sum choice.",
+      "I would ensure a qualified clinician assesses symptom severity, trajectory, red flags, likely benefit from specialist review, and the consequences of delay for each patient. I would also clarify transport, caregiving, language, financial constraints, available support, telehealth suitability, and whether either patient can safely use another service. An interpreter should support accurate communication rather than relying on family. I would check the clinic's established triage policy and consult the specialist or senior decision-maker if uncertainty remains. Both patients should receive clear interim advice and escalation instructions. Gathering relevant social information is not an intrusion when it directly affects access, but only necessary details should be recorded and handled respectfully.",
+      "Yes, fairness can require considering social barriers because an option that a patient cannot realistically reach is not equivalent access. Equity aims to prevent avoidable disadvantage from compounding illness. Still, the decision must remain clinically safe and use consistent criteria; social need should not become an undefined preference that varies with each staff member. I would examine whether reasonable adjustments, such as funded transport, flexible scheduling, remote interpretation, or outreach, could preserve both patients' options. If one patient faces a greater immediate medical risk, that may remain decisive. The ethical task is to assess actual opportunity and likely outcomes, then explain the process transparently rather than pretending that geography and resources do not matter.",
+      "The clinic could develop a multidisciplinary triage protocol that incorporates urgency, benefit, and access barriers, with a review route for difficult cases. Reserved urgent slots and cancellation lists could add flexibility. Partnerships with transport services, visiting specialists, telehealth hubs, interpreters, and respite support would make city care more usable. Aggregate data should be reviewed to see which groups repeatedly miss or delay appointments and why. The service could advocate for funding using those patterns rather than relying on individual improvisation. Clear patient communication and safety-net plans are essential while waiting. No system eliminates scarcity, but advance rules, broader access supports, and transparent audit make decisions more consistent, equitable, and open to improvement."
+    ],
+    "rubric_focus": [
+      "distributive justice",
+      "equity versus equality",
+      "structured triage",
+      "systems thinking"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "A Grateful Patient's Expensive Gift",
+    "category": "ethics",
+    "difficulty": "medium",
+    "scenario": "At the end of a long placement, a patient you have spoken with several times offers you an expensive watch. They say refusing it would be deeply insulting and ask you not to tell the supervising team.",
+    "questions": [
+      "What concerns does the gift raise?",
+      "How would you respond to the patient?",
+      "Would your response differ for a handwritten card or homemade food?",
+      "Why do professional boundaries matter even when both people have good intentions?"
+    ],
+    "model_answers": [
+      "The gift raises concerns about professional boundaries, influence, perceived obligation, fairness to other patients, and compliance with placement or health-service policy. Its high value and the request for secrecy make acceptance particularly inappropriate. The patient's insistence may reflect gratitude or cultural meaning rather than manipulation, so I would avoid judging their motives. I would also recognise the power imbalance: a patient may believe gifts affect attention or care even if I do not. As a student, I must involve my supervisor and cannot privately negotiate an exception. The key is to preserve the therapeutic relationship by receiving the gratitude warmly while declining the object clearly and transparently.",
+      "I would thank the patient sincerely and acknowledge what the gesture means to them before explaining that I cannot accept an expensive personal gift. I would avoid saying that the offer itself was wrong or embarrassing them in front of others. I might say that professional rules help ensure every patient can trust that care is never influenced by gifts. I would not agree to secrecy and would inform my supervisor according to policy. If appropriate, I could suggest alternatives such as a card to the team, feedback to the service, or a donation through an approved channel. A warm, consistent explanation can protect both the relationship and the boundary.",
+      "Context, value, timing, policy, and cultural meaning all matter. A handwritten card is usually low value and may be safely shared with the team, subject to local rules. Homemade food can raise allergy, infection-control, equity, or cultural considerations, so I would check policy and preferably accept only if it is suitable for the whole team. The central question is whether acceptance could create obligation, special access, secrecy, or a reasonable perception of influence. I would not treat every token identically, but I would apply transparent principles and seek supervision when uncertain. Whatever the outcome, I would document or declare gifts when required and respond without shaming the patient.",
+      "Professional boundaries protect patients from exploitation and clinicians from conflicts that can gradually distort judgment. Healthcare relationships involve vulnerability, private information, and unequal power, so even generous intentions can create expectations of special treatment or emotional reciprocity. Boundaries also protect public trust: other patients should not wonder whether money, affection, or access changes care. Consistency makes it easier to respond fairly across cultures and personalities, while supervision helps when circumstances are ambiguous. Boundaries do not require coldness. Gratitude, empathy, and human connection remain important, but they should be expressed in ways compatible with the clinician's role. Good intentions are valuable; accountable structures ensure those intentions lead to safe conduct."
+    ],
+    "rubric_focus": [
+      "professional boundaries",
+      "conflicts of interest",
+      "cultural respect",
+      "transparent escalation"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "The Celebration Photo Online",
+    "category": "ethics",
+    "difficulty": "medium",
+    "scenario": "After a hospital fundraising event, another student posts a group photograph on a public social-media account. A patient can be recognised in the background, and a whiteboard displays part of a surname. The student says the post is harmless because nobody is tagged.",
+    "questions": [
+      "What issues do you identify?",
+      "What immediate action would you take?",
+      "How would you speak with the student who posted it?",
+      "How should healthcare learners use social media responsibly?"
+    ],
+    "model_answers": [
+      "The post may disclose patient identity and association with a healthcare setting without valid consent. Lack of tagging does not make an image anonymous; faces, location, event context, and the visible surname can be combined. The patient may experience stigma, distress, or loss of trust, and deletion may not fully remove copies. The post may also breach hospital policy and privacy law. I would avoid publicly commenting or resharing it, because that could increase exposure. The concern should be addressed promptly, proportionately, and through the proper supervisor or privacy pathway. The student's intent may have been celebratory, but privacy risk depends on the information revealed, not intention alone.",
+      "I would capture only the minimum information needed to report the incident, without creating unnecessary additional copies, and ask the student to remove the post immediately. I would notify my supervisor or the hospital's designated privacy contact and follow their directions about documentation, platform reporting, patient notification, and containment. I would not attempt to investigate the patient's identity myself or contact them independently. If the student could not remove the content, the service could use the platform's urgent privacy process. I would preserve confidentiality while discussing the incident and avoid gossip. Rapid removal matters, but formal reporting also allows the organisation to assess harm and meet any notification obligations.",
+      "I would speak privately and begin with specific observations: a patient is recognisable and a partial surname is visible. I would ask them to take the post down now, then explain that de-identification requires more than omitting tags. I would avoid accusing them of malicious intent, but I would be clear that the incident needs to be reported rather than concealed. If they resisted, I would escalate directly because ongoing exposure increases risk. Later, I would invite reflection on how a patient might feel and on the permanence of digital content. A respectful conversation supports learning, while decisive action and formal oversight protect the patient and public trust.",
+      "Healthcare learners should treat online spaces as public and persistent, separate personal expression from access gained through placement, and follow institutional policy. They should never post patient information, images, clinical stories, or workplace details that could enable identification without explicit authorised consent and a legitimate purpose. Even altered names can be identifiable when combined with timing or rare circumstances. Before posting workplace content, learners should check backgrounds, metadata, logos, whiteboards, and bystanders, and seek approval when required. Privacy settings are not a substitute for confidentiality. They should also maintain respectful conduct, disclose conflicts, avoid informal clinical advice, and remember that professional duties extend beyond the hospital door."
+    ],
+    "rubric_focus": [
+      "privacy and confidentiality",
+      "digital professionalism",
+      "immediate harm containment",
+      "accountability"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "Anger in the Waiting Room",
+    "category": "communication",
+    "difficulty": "medium",
+    "scenario": "A clinic is running ninety minutes late. A patient's daughter approaches the desk, speaking loudly and demanding to know why her father has been ignored. Other patients are watching, and the receptionist looks overwhelmed.",
+    "questions": [
+      "How would you begin the conversation?",
+      "What information could you appropriately provide?",
+      "What would you do if the daughter became verbally abusive?",
+      "How could the clinic respond to the underlying service problem?"
+    ],
+    "model_answers": [
+      "I would approach calmly, introduce myself and my role, and invite the daughter to a more private area if safe. I would acknowledge both the delay and its impact without becoming defensive: her frustration may reflect worry about her father as well as lost time. I would listen briefly, avoid interrupting, and clarify whether her father has any new or worsening symptoms that require clinical reassessment. I would not promise an exact time before checking. My tone and body language should be respectful, with enough distance and a clear exit if tension rises. The first aim is to reduce uncertainty and identify any immediate safety issue, not to win an argument.",
+      "I could explain the general delay, the clinic's process for prioritising urgent cases, and the best available estimate after checking with staff. I should apologise for the experience without speculating about individual patients or disclosing why another person was seen first. Before discussing the father's personal information, I would confirm his consent and the daughter's authority to receive it. I could offer practical options such as waiting in a quieter location, rescheduling if clinically safe, or having a clinician reassess new symptoms. I would be honest about uncertainty and arrange an update at a stated time. Reliable follow-through is more helpful than a reassuring estimate that may prove false.",
+      "I would set a clear, respectful boundary by saying I want to help but cannot continue while staff are being insulted or threatened. I would keep my voice low, avoid crowding, and offer a short pause or a private conversation if safe. If behaviour suggested imminent harm, I would follow the clinic's duress procedure, involve senior staff or security, and protect nearby patients rather than attempting to manage it alone. I would not retaliate, shame the daughter, or use disclosure of her father's information as a bargaining tool. Once safe, the team should document the event factually and still ensure the father receives appropriate clinical care without punitive delay.",
+      "The clinic should treat repeated long waits as a quality issue rather than relying on frontline staff to absorb frustration. It could review arrival patterns, booking length, emergency interruptions, staffing, and whether patients receive early notice of delays. A visible check-in process should identify deterioration and provide regular, realistic updates. Patients might be offered call-back, rescheduling, or remote options when clinically suitable. Staff need training in de-escalation and clear routes for assistance, followed by support after aggressive incidents. Feedback and wait-time data should be monitored for inequitable effects. Transparent communication will not remove every delay, but it can reduce uncertainty, preserve dignity, and reveal where operational redesign is needed."
+    ],
+    "rubric_focus": [
+      "empathy and de-escalation",
+      "confidentiality",
+      "boundary setting",
+      "quality improvement"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "Explaining an Uncertain Test Result",
+    "category": "communication",
+    "difficulty": "hard",
+    "scenario": "A patient has received an abnormal screening result. Further testing is required, and the result does not yet establish a diagnosis. The patient asks, with visible fear, whether this means they have cancer. Imagine you are the clinician responsible for discussing the result.",
+    "questions": [
+      "How would you explain the result?",
+      "How would you respond to the patient's emotion?",
+      "What would you do if the patient demanded a definite prediction?",
+      "How would you check that the conversation had been effective?"
+    ],
+    "model_answers": [
+      "I would first ask what the patient already understands, then explain in plain language that the screening test found a change requiring closer investigation but cannot by itself confirm cancer. I would avoid vague reassurance and technical statistics without context. I would describe the next test, its purpose, expected timing, and how results will be communicated. Where accurate, I could explain that abnormal screening results can have several causes, while acknowledging that cancer is one possibility being assessed. I would pause frequently and use a simple diagram or written plan if helpful. The core message should be balanced: the finding deserves timely follow-up, but a diagnosis has not yet been made.",
+      "I would pause after giving the key information and name what I observe gently, such as saying that this sounds frightening. I would allow silence, listen to the patient's main fear, and avoid rushing into more facts before they are ready. I could ask whether they would like a support person present and what immediate practical concerns they have. Empathy does not require claiming that everything will be fine; it means remaining present and helping them navigate uncertainty. If distress were overwhelming or there were concerns about safety, I would involve appropriate psychological or social support. I would summarise the next step so the patient leaves with a concrete plan rather than fear alone.",
+      "I would acknowledge why certainty feels important and be honest that the current evidence cannot provide it. I would explain what is known, what remains unknown, and which next test will narrow the uncertainty. If useful and supported by validated data, I could discuss risk using absolute numbers and natural frequencies, checking whether the patient wants that level of detail. I would avoid giving an unsupported personal estimate simply to relieve distress, because false certainty can damage trust and decisions. I would also explain what symptoms should prompt earlier review and whom to contact with questions. A clear timeline and access to follow-up can make uncertainty more manageable without pretending it has disappeared.",
+      "I would use teach-back, asking the patient to explain what the result means and what will happen next in their own words. This is a check of my explanation, not a test of the patient. I would correct misunderstandings gently, invite questions, and ask what they plan to tell family, which may reveal unintended interpretations. I would provide accessible written information, the appointment details, warning signs, and a contact route. Language or hearing support should be arranged where needed. Before ending, I would summarise the distinction between an abnormal screen and a diagnosis, confirm the follow-up plan, and document the discussion. Effective communication is demonstrated by shared understanding and an actionable plan."
+    ],
+    "rubric_focus": [
+      "risk communication",
+      "emotional validation",
+      "honesty about uncertainty",
+      "teach-back"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "A Dismissive Comment About a Patient",
+    "category": "communication",
+    "difficulty": "medium",
+    "scenario": "During a student break, a peer describes a patient with obesity as lazy and says there is no point offering further support because the patient never follows advice. Two other students laugh, and the patient is not present.",
+    "questions": [
+      "What would you say when you hear this comment?",
+      "How could you challenge the comment without ending the conversation?",
+      "What would you do if this peer used similar language directly with patients?",
+      "How can clinicians discuss behaviour and risk without stigma?"
+    ],
+    "model_answers": [
+      "I would not join the laughter or allow silence to imply agreement. I would respond calmly and specifically, perhaps saying that describing a patient as lazy reduces a complex situation to a moral judgment and may affect the care we offer. I would remind the group that patient information should only be discussed for legitimate learning or care purposes, even in a staff area. I would avoid humiliating the peer publicly, because defensiveness may close reflection, but I would still make the boundary clear. If identifiable details had been shared, I would address confidentiality as well. The immediate goal is to interrupt stigma and return the discussion to respectful, evidence-based language.",
+      "I might ask what barriers or experiences could make the recommended changes difficult, inviting the peer to reconsider rather than simply declaring them a bad person. Factors could include medication effects, pain, income, food access, trauma, cultural context, mental health, or previous experiences of stigma. I would distinguish accountability from blame: patients can have agency while still facing powerful constraints. I could explain that assumptions about motivation may cause clinicians to offer less support, which can worsen outcomes and reinforce the stereotype. I would use person-first, neutral language and ask how we would want our own difficulties discussed. Curiosity, concrete impact, and shared professional values create a better chance of durable change.",
+      "If the language reached patients or influenced care, I would treat it as a more serious professionalism and safety concern. I would document factual observations, speak with the peer privately if safe, and tell them why the behaviour could cause harm and deter engagement. I would encourage immediate correction or apology where appropriate, but I would also inform my placement supervisor through the established pathway rather than relying on an informal promise. The response should be proportionate to frequency and impact, with support for learning where possible. I would ensure the affected patient has a safe route to raise concerns and receives respectful care, without burdening them with resolving the student's conduct.",
+      "Clinicians can focus on observable behaviours, health effects, and the patient's own goals rather than character labels or body size as a moral failing. They should ask permission to discuss weight or lifestyle, use neutral terms preferred by the patient, and explore social, biological, psychological, and environmental influences. Advice should be collaborative, specific, realistic, and paired with resources rather than repeated as a lecture. Clinicians should acknowledge uncertainty and avoid assuming non-adherence before asking what happened. Outcomes beyond weight may matter, including mobility, sleep, blood pressure, or quality of life. Respectful language supports honest disclosure and shared decisions; stigma undermines the very engagement that effective care requires."
+    ],
+    "rubric_focus": [
+      "speaking up",
+      "non-stigmatising language",
+      "constructive challenge",
+      "patient-centred communication"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "The Confusing Medication Plan",
+    "category": "communication",
+    "difficulty": "easy",
+    "scenario": "A patient with several new medicines nods throughout a rushed discharge explanation. When asked casually afterward, the patient says all the tablets look the same and plans to take each one whenever symptoms feel worse.",
+    "questions": [
+      "What communication problem has occurred?",
+      "How would you help clarify the medication plan?",
+      "What if the patient says they cannot read the written instructions?",
+      "What principles make health information accessible?"
+    ],
+    "model_answers": [
+      "The team has mistaken polite agreement for understanding. The patient appears to have an unsafe mental model of scheduled and as-needed medicines, creating risks of missed doses, overdose, or harmful interactions. The rushed explanation, similar packaging, unfamiliar terminology, stress, and possible health-literacy needs may all contribute. I would not label the patient as non-compliant or assume a cognitive problem. Understanding is a shared communication responsibility, and the regimen itself may be unnecessarily complex. The immediate need is accurate reconciliation and clarification by an appropriate clinician or pharmacist before discharge, followed by a practical plan that the patient can use at home and a way to ask questions later.",
+      "I would alert the supervising clinician or pharmacist and ask that discharge pause until the plan is reconciled. Together, we should explain one medicine at a time using its purpose, dose, timing, duration, and key precautions in plain language. A simple schedule linked to daily routines, distinct labels, or an organised dose pack may help if clinically appropriate. I would use teach-back by asking the patient to show how they will take each medicine tomorrow, making clear that we are testing the explanation. We should remove outdated medicines from the list, check interactions, involve a chosen support person with consent, and arrange follow-up with their usual pharmacist or doctor.",
+      "I would thank the patient for telling me and avoid embarrassment or assumptions about why reading is difficult. Written instructions alone would be inadequate, so I would explore preferred formats, such as pictograms, colour or shape cues, large print, audio instructions, or a supervised dose pack. Colour must not be the only distinction because packaging can change and colour vision varies. A pharmacist could demonstrate the regimen, then ask the patient to teach it back using the actual containers. With consent, a trusted support person or community nurse might help. We should also confirm language, vision, and dexterity needs and provide a phone contact for clarification after discharge.",
+      "Accessible health information starts with knowing the audience rather than simplifying blindly. Clinicians should use common words, short chunks, meaningful examples, and one clear action at a time. Visual or audio formats, professional interpreters, accessible typography, and culturally relevant explanations may be required. Teach-back checks whether communication worked and should be normal for everyone, not reserved for people judged to have low literacy. Information should be consistent across staff and matched by feasible services, costs, and follow-up. Patients need space to ask questions without shame. Accessibility is not merely a nicer leaflet; it is designing communication so people with different language, literacy, sensory, cognitive, and practical needs can act safely."
+    ],
+    "rubric_focus": [
+      "health literacy",
+      "teach-back",
+      "medication safety",
+      "accessible communication"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "When Your Study Plan Failed",
+    "category": "motivation_reflection",
+    "difficulty": "easy",
+    "scenario": "You prepared extensively for an important examination but received a much lower result than expected. A friend says the mark proves you are not suited to a demanding healthcare degree.",
+    "questions": [
+      "How would you respond to the result?",
+      "How would you identify what went wrong?",
+      "What would you say to your friend?",
+      "What has failure taught you about becoming a healthcare professional?"
+    ],
+    "model_answers": [
+      "I would allow myself to feel disappointed without treating one result as a complete judgment of my ability or identity. My first practical step would be to check the result and feedback, then avoid making major decisions while emotions are strongest. I would speak with the instructor and someone I trust, while maintaining sleep, routine, and perspective. Accountability matters: extensive effort does not guarantee that my method matched the assessment. I would resist blaming the examiner or comparing myself obsessively with peers. The result is useful evidence about current performance, not proof of a fixed limit. My response should combine self-compassion with an honest commitment to understand and change what is within my control.",
+      "I would analyse preparation and performance separately. For preparation, I would examine whether I used active recall, spaced practice, timed questions, and feedback, rather than counting hours. For performance, I would review question types, time allocation, anxiety, sleep, and any recurring knowledge gaps. I would compare my own diagnosis with marker comments and ask a tutor to review a representative answer. Then I would form a small number of testable changes, such as weekly timed practice with error logging, and track whether scores improve. If health or learning needs contributed, I would seek appropriate support. Reflection becomes useful only when it produces specific actions and a way to evaluate them.",
+      "I would tell my friend that I understand why the result raises concern, but a single mark cannot determine suitability for an entire profession. Healthcare does demand sustained learning, sound judgment, and performance under pressure, so I would not dismiss the setback. I would explain the feedback I have identified and the concrete changes I plan to test. If repeated evidence later showed a persistent mismatch despite support and adaptation, I would reassess honestly. For now, the responsible response is neither denial nor surrender; it is learning. I would also set a boundary if the comment felt demeaning, while recognising that a friend may be expressing worry rather than trying to undermine me.",
+      "Failure has taught me that effort must be paired with feedback, strategy, and humility. In healthcare, outcomes will sometimes be worse than hoped despite sincere work, and professionals must be able to examine their contribution without collapsing into shame or defensiveness. A disappointing result can practise that balance in a lower-stakes setting. It also reminds me to seek help early, notice unproductive perfectionism, and judge progress over time rather than through one event. Resilience is not pretending setbacks do not hurt; it is recovering, adapting, and preserving standards. I would bring this learning to clinical training by inviting feedback, tracking recurring errors, and recognising when wellbeing or competence requires support."
+    ],
+    "rubric_focus": [
+      "self-awareness",
+      "growth mindset",
+      "evidence-based reflection",
+      "resilience"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "Why Medicine Rather Than an Adjacent Career",
+    "category": "motivation_reflection",
+    "difficulty": "medium",
+    "scenario": "An interviewer notes that your interests in science, service, and communication could fit many careers, including nursing, allied health, research, or public health. They ask why medicine is the right path for you.",
+    "questions": [
+      "How would you explain your motivation for medicine?",
+      "How have your experiences tested that motivation?",
+      "What aspects of medical work do you expect to find difficult?",
+      "How would you respond if your career eventually differed from your current plan?"
+    ],
+    "model_answers": [
+      "I would begin with specific experiences rather than claim that medicine is the only meaningful career. What draws me is the physician's combination of longitudinal responsibility, diagnostic reasoning under uncertainty, communication during consequential decisions, and collaboration across professions. I value the opportunity to integrate biological evidence with a person's priorities and context, then remain accountable as the plan evolves. Nursing, allied health, research, and public health each offer distinct and essential contributions, so my choice should not depend on diminishing them. I would connect these features to demonstrated interests and values, while acknowledging that my understanding is still developing and that team-based care, not individual heroism, defines modern medicine.",
+      "I would describe sustained exposure that included ordinary and difficult aspects of care, not only inspiring moments. For example, volunteering may have shown me that listening and reliable follow-through often matter more than dramatic interventions, while observation may have revealed documentation, uncertainty, repetition, and emotionally challenging conversations. I would explain how I sought perspectives from doctors and other professionals, reflected on moments that energised or unsettled me, and continued to choose the role with a more realistic view. I would avoid overstating responsibilities or claiming clinical insight I did not possess. Motivation is stronger when it has survived contact with inconvenience, limits, teamwork, and ambiguity rather than resting on an idealised image.",
+      "I expect uncertainty, responsibility for mistakes, exposure to suffering, competing demands, and the emotional challenge of not always being able to help as I would wish. Training also involves long periods of being a beginner, receiving correction, and balancing service with learning. Administrative work and resource constraints may frustrate me, while irregular hours can strain relationships and wellbeing. I do not assume enthusiasm will make these pressures disappear. I would rely on team support, supervision, reflective practice, healthy routines, and early help-seeking, while maintaining boundaries and interests outside medicine. Recognising difficulty is not pessimism; it helps me enter training with realistic expectations and a plan to remain safe and effective.",
+      "I would treat my current career interest as a direction grounded in values, not a rigid prediction about specialty, location, or status. Medical school and patient contact may reveal strengths and needs I cannot yet foresee. I would remain open by seeking broad placements, feedback, mentors, and exposure to underserved settings, then evaluate choices against service, aptitude, wellbeing, and community need. If I discovered that another role better matched my abilities or values, reassessing would not invalidate the original motivation. The constant should be responsible contribution and continued learning, not protecting a youthful narrative. Adaptability matters in medicine because evidence, systems, personal circumstances, and the needs of populations all change."
+    ],
+    "rubric_focus": [
+      "realistic motivation",
+      "respect for multidisciplinary roles",
+      "insight into challenges",
+      "career adaptability"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "Feedback You Believe Is Unfair",
+    "category": "motivation_reflection",
+    "difficulty": "medium",
+    "scenario": "A supervisor writes that you dominate group discussions and do not listen well. You believe you were only trying to keep an unfocused project on schedule, and other teammates have never raised this concern.",
+    "questions": [
+      "How would you respond to the feedback initially?",
+      "How would you determine whether the feedback is accurate?",
+      "How would you discuss it with the supervisor?",
+      "What change would you trial, and how would you measure improvement?"
+    ],
+    "model_answers": [
+      "My initial reaction might be surprise or defensiveness, so I would avoid arguing immediately. I would thank the supervisor, ask for time to reflect, and write down the feedback accurately. The intention to keep a project moving does not exclude the possibility that my impact was dominating; intent and effect can differ. I would look for useful information even if the wording felt broad. At the same time, fair feedback should be specific and open to discussion, so accepting it does not mean accepting every conclusion uncritically. I would regulate my response, seek examples, and treat the comment as a hypothesis to examine rather than either a verdict or something to dismiss.",
+      "I would ask for concrete examples: when I interrupted, how often I spoke, what cues I missed, and how the behaviour affected the group. I would review meeting notes or recordings if legitimately available and reflect on whether I equated speed with agreement. I could privately invite several teammates to describe my facilitation, using open questions and making clear that honest criticism is welcome. I would look for patterns rather than recruit allies to disprove the supervisor. Context matters, including whether roles were defined and whether others felt safe speaking. Combining self-observation, multiple perspectives, and specific incidents would help distinguish a one-off misunderstanding from a genuine behavioural pattern.",
+      "I would arrange a private conversation and begin by signalling that I want to understand and improve. I could say that I was trying to maintain progress, then acknowledge that this may have limited others' participation. I would ask the supervisor to describe one or two moments and what a better response would have looked like. If I disagreed with factual details, I would explain my recollection calmly and ask how we could verify it, rather than challenge their motives. I would summarise the behaviour I plan to change and request observation at a future meeting. This turns a potentially adversarial exchange into a shared effort to define expectations and assess improvement.",
+      "I would trial a facilitation routine for four meetings: speak after inviting others, avoid interrupting, summarise competing views before proposing a decision, and use timed check-ins against the agenda. I would track my speaking turns and note whether quieter members contribute before decisions close. At the end of each meeting, I could ask the group for one brief rating or comment on inclusion and pace, without making feedback burdensome. I would ask the supervisor to observe at least once using agreed criteria. Improvement would mean not simply speaking less, but achieving timely outcomes with broader participation and accurate understanding. After the trial, I would review data, seek feedback again, and retain or adjust the strategy."
+    ],
+    "rubric_focus": [
+      "receptiveness to feedback",
+      "intent versus impact",
+      "triangulation of evidence",
+      "measurable behaviour change"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "The Helpful Student Who Cannot Switch Off",
+    "category": "motivation_reflection",
+    "difficulty": "medium",
+    "scenario": "You regularly support classmates who are distressed. Recently you have been answering messages late at night, missing sleep, and feeling responsible for preventing every crisis. One classmate becomes upset when you say you are unavailable for an evening.",
+    "questions": [
+      "What concerns do you have about this pattern?",
+      "How would you communicate a boundary to the classmate?",
+      "What would you do if the classmate hinted at immediate self-harm?",
+      "How can healthcare students build sustainable compassion?"
+    ],
+    "model_answers": [
+      "The pattern risks burnout, impaired study and judgment, resentment, and an unsafe dependence in which I am functioning beyond my competence. Caring intentions do not make me solely responsible for another person's wellbeing, and sleep loss may reduce the quality of any support I provide. The classmate's distress deserves a compassionate response, but they need a broader, appropriate network rather than continuous access to one peer. I would examine why I find it difficult to say no, including fear of seeming selfish or a need to feel indispensable. Sustainable help requires boundaries, referral, and my own support. Ignoring my limits could ultimately harm both of us rather than demonstrate commitment.",
+      "I would speak at a calm time and use clear, caring language. I might say that I value them and can listen at agreed times, but I cannot reliably respond late at night or act as their only crisis contact. I would avoid blaming them for my exhaustion and offer specific alternatives, such as student counselling, their general practitioner, a trusted person, and crisis contacts. We could agree on what kind of peer support I can realistically provide. I would not negotiate away the boundary because they are disappointed, although I would acknowledge that the change may feel difficult. Consistency is kinder than making promises I cannot safely sustain.",
+      "I would take the hint seriously and ask directly, calmly, and without judgment whether they are thinking of harming themselves, whether there is an immediate plan, and whether they are currently safe. I would not promise secrecy. If risk appeared immediate, I would stay connected, involve emergency or crisis services and a responsible support person, and follow local guidance rather than managing alone. If the risk were not immediate, I would still help them connect promptly with qualified care and create a short safety plan through appropriate services. Afterwards, I would seek support and document or report according to the setting. A boundary does not mean abandoning someone during an emergency.",
+      "Sustainable compassion combines empathy with role clarity, teamwork, reflection, and recovery. Students should learn to notice warning signs such as cynicism, sleep disruption, over-responsibility, and declining performance, then seek help early. Peer support is valuable, but supervision and professional services must carry problems requiring clinical expertise. Regular rest, relationships outside training, exercise, and protected time are not rewards after perfect productivity; they support safe performance. Debriefing and reflective practice can process difficult experiences without breaching confidentiality. Institutions also share responsibility through manageable workloads and accessible support. Compassion lasts when people neither detach from suffering nor imagine they must absorb all of it personally."
+    ],
+    "rubric_focus": [
+      "wellbeing and boundaries",
+      "risk escalation",
+      "role clarity",
+      "sustainable empathy"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "Vaccine Rumours at a Community Forum",
+    "category": "public_rural_health",
+    "difficulty": "hard",
+    "scenario": "At a community forum, several parents say they have seen online videos claiming that a new school vaccination program causes infertility. They believe health authorities are hiding evidence and ask why anyone should trust the program.",
+    "questions": [
+      "How would you respond to the parents?",
+      "How would you discuss evidence without dismissing their concerns?",
+      "Should vaccination be mandatory for school attendance?",
+      "What public-health strategies could address misinformation beyond this meeting?"
+    ],
+    "model_answers": [
+      "I would begin by listening to what the parents saw, what specifically worries them, and what experiences shaped their trust. I would acknowledge that protecting fertility and children's health are legitimate concerns, without validating an unsupported claim. I would explain my role and use current, authoritative evidence to distinguish reported events after vaccination from events caused by it. I would be transparent about known side effects, uncertainty, monitoring, and how safety signals are investigated. I would avoid ridicule, information overload, or implying that questions make someone irresponsible. The goal is an informed decision and an ongoing relationship, so I would provide credible resources and invite follow-up rather than demand immediate agreement.",
+      "I would ask permission to share what the evidence shows and explain the strongest relevant study types in everyday language. Large comparisons of vaccinated and unvaccinated groups, biological plausibility, consistency across settings, and active safety surveillance carry more weight than an isolated video. I would also disclose what evidence cannot prove and update advice if new findings emerge. Using absolute risks and familiar comparisons can help, but I would check understanding rather than recite statistics. I would explore the source's claims together: who produced it, whether methods and data are available, and whether independent organisations agree. Respect means taking questions seriously; it does not require treating all claims as equally supported.",
+      "A mandate involves tension between individual choice, children's interests, protection of vulnerable people, educational access, and public trust. I would first consider the disease's severity and transmissibility, vaccine effectiveness and safety, current coverage, outbreak conditions, and whether less restrictive measures could work. Any policy should be lawful, evidence-based, proportionate, transparent, time-limited or reviewable, and include genuine medical exemptions. Punitive measures may worsen inequity if access barriers are mistaken for refusal, so free and convenient vaccination is essential. I would not endorse a blanket rule without context. Restriction can be justified when necessary to prevent substantial harm, but coercive power carries a high burden of evidence and procedural fairness.",
+      "A durable response requires more than correcting individual posts. Health services should communicate early through trusted local clinicians, schools, community leaders, and culturally appropriate messengers; make evidence understandable; and acknowledge uncertainty and previous failures honestly. Social listening can identify emerging concerns before narratives harden. Platforms and authorities can reduce amplification of demonstrably harmful falsehoods while protecting legitimate debate. Convenient access, reminders, paid time, and interpreters address practical barriers that may appear as hesitancy. Two-way forums and rapid responses should be evaluated for trust and uptake, not only reach. Public agencies also need transparent safety dashboards and clear correction processes, because credibility is built through consistent behaviour before a controversy begins."
+    ],
+    "rubric_focus": [
+      "respectful evidence communication",
+      "public-health ethics",
+      "proportionality",
+      "trust building"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "A Rural Placement and a Community's Trust",
+    "category": "public_rural_health",
+    "difficulty": "medium",
+    "scenario": "A rural town has hosted rotating health students for years but still struggles to recruit permanent clinicians. A resident tells you that students arrive, practise on the community, promise to return, and then disappear.",
+    "questions": [
+      "How would you respond to the resident?",
+      "What responsibilities do students have to a rural host community?",
+      "Why are rural workforce shortages difficult to solve?",
+      "What policies could support more equitable rural healthcare?"
+    ],
+    "model_answers": [
+      "I would listen without defending the placement program or making a promise about my future location. The resident's frustration reflects repeated experiences and an unequal relationship in which learners gain opportunities while the community may see little continuity. I would acknowledge that impact and ask what respectful participation would look like from their perspective. I could explain what I can realistically contribute during the placement and how feedback can reach program leaders. I would avoid presenting the town as merely deprived or as a training backdrop. Trust would be better served by honesty, curiosity, and reliable small commitments than by saying I will return when I cannot know that yet.",
+      "Students should prepare for the community's context, practise within competence under supervision, protect confidentiality in a small population, and respect local knowledge. They should seek informed consent without implying that accepting student involvement affects care. Reliability matters: arrive prepared, follow through, and communicate when plans change. Students can contribute to useful continuity through careful handover, community-defined projects, and feedback to the university, while avoiding short-term initiatives the community must maintain alone. They should also reflect on stereotypes and the benefits they receive from the placement. Gratitude is best demonstrated through respectful conduct and accountability, not saviour narratives or promises that exceed a student's authority and future certainty.",
+      "Shortages reflect interacting factors: training location, professional isolation, partner employment, housing, schooling, workload, limited specialist support, cultural safety, and burnout. Recruitment without retention can create a revolving door, while communities differ greatly and should not be treated as one rural category. Funding and infrastructure may fluctuate, and small workforces are vulnerable when one clinician leaves. International and temporary workers can provide valuable care but should not bear unfair service gaps without support. Workforce numbers alone also miss skill mix, continuity, and access for dispersed populations. Effective solutions must address working conditions, education pathways, community integration, and service design over years rather than rely on individual altruism.",
+      "Policies could expand rural-origin admissions and sustained regional training because familiarity and local networks may support retention, while maintaining fair selection. Clinicians need funded supervision, locum relief, team-based models, housing and relocation support, professional development, specialist consultation, and employment opportunities for partners. Telehealth can extend expertise but should complement local relationships and reliable digital infrastructure. Governments could support Aboriginal community-controlled services and community-led priorities, rather than impose uniform models. Incentives should be substantial, transparent, and paired with safe conditions; compulsory service alone may produce short stays and resentment. Outcomes should track continuity, patient experience, and community-defined access, with programs adjusted through long-term partnership and evaluation."
+    ],
+    "rubric_focus": [
+      "rural health equity",
+      "community partnership",
+      "realistic workforce analysis",
+      "humility"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "Listening Before Designing Indigenous Health Outreach",
+    "category": "public_rural_health",
+    "difficulty": "hard",
+    "scenario": "A university group proposes a weekend health-check event for a nearby Aboriginal community. The plan is almost complete before anyone contacts the local Aboriginal community-controlled health organisation. A student argues that consultation will only slow down a beneficial project.",
+    "questions": [
+      "What concerns does the proposed approach raise?",
+      "How would you respond to the student who wants to proceed quickly?",
+      "What would genuine partnership look like?",
+      "How should health professionals reflect on history and power in this context?"
+    ],
+    "model_answers": [
+      "The proposal assumes outsiders can define need, design delivery, and judge benefit without community authority. Even a well-intended event may duplicate services, disrupt trusted care, collect data without appropriate governance, or leave follow-up burdens behind. It risks treating Aboriginal people as recipients rather than partners and may repeat extractive patterns in which institutions gain learning or publicity. Cultural safety is determined by those receiving care, not by our confidence in our intentions. Before proceeding, the group should pause and contact the Aboriginal community-controlled health organisation through respectful channels. The central question is not how to deliver our event efficiently, but whether the community wants it and what priorities or model it identifies.",
+      "I would acknowledge the desire to help promptly, then explain that speed is not the only measure of benefit. An intervention designed without local leadership can waste resources, reduce trust, and cause harm, while consultation is part of the work rather than an administrative delay. I would ask whether we would accept an outside group making decisions for our own service without invitation. If there were an urgent, clearly identified need, the community-controlled organisation would still be best placed to guide a response. I would propose pausing the event plan, transparently presenting what has already been developed, and being willing to change or abandon it. Good intentions do not substitute for consent, governance, and accountability.",
+      "Genuine partnership would begin with relationship-building and listening to community-defined priorities, not seeking approval for a finished plan. The Aboriginal community-controlled organisation should have decision-making power over aims, methods, cultural protocols, staffing, data ownership, evaluation, and whether the project occurs. Resources should support its time and leadership rather than expect unpaid consultation. Local clinicians and community members would shape accessible follow-up so screening does not identify needs without care. Success measures should include outcomes the community values, and findings should return to the community before external use. The university should commit beyond one weekend, clarify mutual benefits, and create a route for concerns, revision, and withdrawal throughout the partnership.",
+      "Health professionals should understand that present distrust and inequity are connected to colonisation, dispossession, racism, harmful policies, and exclusion from decision-making, not to cultural deficiency. Reflection should examine how professional authority, institutional incentives, and assumptions about expertise shape our actions. This does not mean treating every Aboriginal person as having the same history or preferences, nor expecting individuals to educate us. We should learn from authoritative Indigenous-led sources, recognise strengths and sovereignty, and practise cultural humility as ongoing accountability rather than a completed competency. In action, that means sharing power, challenging racism, supporting self-determination, and accepting that sometimes the most ethical contribution is to resource community leadership rather than lead ourselves."
+    ],
+    "rubric_focus": [
+      "Indigenous self-determination",
+      "cultural safety",
+      "community-controlled care",
+      "reflection on power"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "Heatwaves and Limited Public Funds",
+    "category": "public_rural_health",
+    "difficulty": "hard",
+    "scenario": "A council has funding for one major heat-health initiative before summer. Options include upgrading cooling at aged-care facilities, planting shade in low-income neighbourhoods, or running a city-wide public information campaign. You are asked to advise the council.",
+    "questions": [
+      "How would you compare the options?",
+      "Which stakeholders and evidence would you consult?",
+      "Would you choose one option, and how would you justify it?",
+      "How should health systems prepare for climate-related risks over the longer term?"
+    ],
+    "model_answers": [
+      "I would compare expected reduction in illness and death, who benefits, speed of effect, durability, feasibility, cost, and possible unintended consequences. Cooling aged-care facilities may rapidly protect a highly vulnerable group. Shade can improve neighbourhood temperatures and health over years but may not mature before summer. Information campaigns reach widely but may be ineffective for people without safe, affordable cooling. I would examine whether funding truly permits only one option or whether a combined minimum package is possible. Equity should be explicit because heat exposure and capacity to adapt are uneven. A transparent decision matrix, sensitivity analysis, and community input would make the trade-offs visible rather than disguise them as purely technical.",
+      "I would consult older people, aged-care residents and staff, low-income neighbourhood groups, Aboriginal organisations, disability advocates, emergency services, public-health teams, urban planners, housing providers, energy services, and climate scientists. Evidence should include local heat-related ambulance calls, deaths, indoor and outdoor temperature mapping, power outages, housing quality, tree canopy, transport access, and residents' stated needs. I would seek information about implementation time, maintenance, and who may be missed by each option. Privacy and data quality require attention, particularly when mapping small communities. People most affected should influence priorities early, not simply comment on a preferred proposal after experts have already decided.",
+      "With the information given, I would provisionally prioritise reliable cooling and heat-response plans in aged-care facilities because the benefit for a concentrated, high-risk population can be delivered before summer and failure could be catastrophic. However, I would reserve final judgment until checking current facility standards and local risk data. I would seek lower-cost partnerships for targeted multilingual communication and begin planning shade as a separately funded long-term intervention. My justification would state the ethical criteria, uncertainty, opportunity costs, and review date. Choosing one intervention should not imply that other risks are unimportant. The council should monitor indoor temperatures, emergency transfers, and equity outcomes, then adapt rather than treat allocation as final.",
+      "Health systems should integrate climate projections into facilities, workforce plans, supply chains, surveillance, and emergency preparedness. Hospitals and aged-care sites need resilient cooling, backup power, water, and continuity plans. Primary care can identify high-risk patients before heat events, while public agencies coordinate accessible warnings, transport, cooling centres, and welfare checks. Housing, energy, transport, and urban planning policies are health interventions, so cross-sector governance is essential. Systems should reduce their own emissions where this does not compromise care, because mitigation and adaptation are linked. Planning must include affected communities, test scenarios, track unequal impacts, and update thresholds as conditions change. Resilience is an ongoing capability, not a document activated only during disasters."
+    ],
+    "rubric_focus": [
+      "resource allocation",
+      "climate and health",
+      "equity analysis",
+      "long-term systems planning"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "A Peer Who May Be Impaired",
+    "category": "professionalism",
+    "difficulty": "hard",
+    "scenario": "Before a morning placement, your classmate smells strongly of alcohol, is unsteady, and says they only had a late night. They insist they can participate and warn that reporting them could end their career.",
+    "questions": [
+      "What would you do immediately?",
+      "How would you speak to your classmate?",
+      "What if you were uncertain whether alcohol was the cause?",
+      "How should an institution balance patient safety, fairness, and student wellbeing?"
+    ],
+    "model_answers": [
+      "I would prevent the classmate from entering patient care and contact the placement supervisor immediately. The observable signs create a credible safety concern regardless of the cause, and I should not try to manage or conceal it alone. I would stay with the classmate in a safe place if appropriate, discourage driving, and seek urgent medical help if their condition suggested poisoning, injury, or another emergency. I would share only necessary information with responsible staff and document factual observations rather than diagnose intoxication. Fear about career consequences is understandable, but protecting patients and the classmate takes priority. Prompt escalation can also connect them with assessment and support rather than allowing a crisis to worsen.",
+      "I would speak privately, calmly, and directly. I might say that I have noticed the smell, unsteadiness, and difficulty concentrating, and I am concerned that it is unsafe for them to see patients or drive. I would avoid arguing about the exact amount consumed or accusing them of addiction. I would explain that I must contact the supervisor and offer to accompany them through the next steps. I would not agree to secrecy or accept reassurance unsupported by their condition. At the same time, I would convey that seeking help is compatible with professionalism and that the response should include wellbeing support, not only discipline. Clear limits and humane treatment can coexist.",
+      "I would act on impairment, not on an unconfirmed diagnosis. Alcohol, medication, sleep deprivation, hypoglycaemia, neurological illness, or acute distress could produce similar signs, and several require urgent assessment. I would state exactly what I observed and ask a qualified supervisor or clinician to evaluate them. Because the potential harm of allowing an impaired student into care is high, temporary removal is proportionate while uncertainty is resolved. I would not search their belongings, demand a private medical history, or broadcast speculation to peers. If assessment showed a medical cause unrelated to alcohol, the initial safety action would still have been appropriate, and the classmate's privacy should be protected during any follow-up.",
+      "The institution needs a clear, confidential fitness-to-practise pathway that removes impaired learners from clinical duties promptly while ensuring medical assessment and safe transport. Decisions should rely on evidence, consistent policy, procedural fairness, and proportionate restrictions rather than stigma. Students must know how to report concerns and be protected from retaliation. Support should include treatment access, leave, return-to-practice criteria, supervision, and reasonable adjustments where safe. Repeated or deliberate risk may require formal consequences, but punishment alone can drive problems underground. Aggregate review can identify workload or cultural factors that discourage help-seeking. The central standard is safe care, paired with a realistic opportunity for recovery and accountable return."
+    ],
+    "rubric_focus": [
+      "patient safety",
+      "fitness to practise",
+      "factual escalation",
+      "compassionate accountability"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "The Almost-Missed Allergy",
+    "category": "professionalism",
+    "difficulty": "medium",
+    "scenario": "During a supervised task, you nearly select a medication to which the patient has a documented severe allergy. Your supervisor notices before it is given, so the patient is unharmed. The supervisor says there is no need to mention it because nothing happened.",
+    "questions": [
+      "What actions should follow the near miss?",
+      "Should the patient be told about a near miss?",
+      "How would you analyse why the error almost occurred?",
+      "What would you do if the supervisor refused to report it?"
+    ],
+    "model_answers": [
+      "I would first ensure the medication is not administered, confirm the correct plan, and thank the supervisor for catching the error. I would acknowledge my part without minimising it and ask to follow the service's near-miss reporting and open-disclosure policies. The absence of harm is fortunate, but the same weakness could harm another patient later. I would document facts accurately and avoid altering the record to make the event disappear. I would also reflect on my competence and supervision needs before performing similar tasks. Reporting should support learning rather than personal blame, but accountability still matters. A near miss is valuable safety information precisely because intervention occurred before an adverse outcome.",
+      "Whether and how to tell the patient should follow local policy and be decided with the responsible senior clinician, not improvised by a student. Relevant factors include the event's seriousness, whether it changes care, what the patient may later discover, and the institution's duty of candour. If disclosure is appropriate, it should be timely, factual, and understandable: explain what almost occurred, that it was intercepted, whether any monitoring is needed, and what will change. The patient should have space for questions and an apology where warranted. I would avoid either alarming them with speculation or withholding information merely to protect staff. Transparency should be proportionate and supported by a clear safety plan.",
+      "I would use a systems approach while still examining my actions. Questions include whether the allergy was visible at ordering, selection, and administration; whether alerts were overridden or poorly designed; whether similar drug names or screen layouts contributed; what interruptions or time pressures existed; and whether supervision and role allocation were clear. I would reconstruct the sequence soon after the event with those involved and check whether similar near misses have occurred. My personal learning might include a deliberate allergy check and a pause before confirmation, but education alone may not fix a weak interface or workflow. The aim is to identify multiple contributing factors and implement changes that remain effective under ordinary pressure.",
+      "I would respectfully restate that the near miss presents a learning and patient-safety concern and ask why the supervisor believes reporting is unnecessary. They may misunderstand policy or fear punitive consequences. I would refer to the formal procedure and offer to complete the report together. If they still refused, I would seek advice from another appropriate senior, the placement coordinator, or the patient-safety office, sharing only relevant facts. I would not threaten, gossip, or make a public accusation. I would keep a factual record of my actions and ensure any immediate clinical follow-up occurs. Hierarchy does not remove my responsibility to escalate a significant unresolved safety concern through proper channels."
+    ],
+    "rubric_focus": [
+      "candour",
+      "near-miss reporting",
+      "systems analysis",
+      "speaking up across hierarchy"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "Signing In for an Absent Friend",
+    "category": "professionalism",
+    "difficulty": "easy",
+    "scenario": "A close friend asks you to scan their attendance code for a compulsory skills session. They are absent because they stayed up finishing another assignment and say one missed class should not threaten their course progression.",
+    "questions": [
+      "How would you respond to the request?",
+      "How would you support your friend without participating in dishonesty?",
+      "Would it matter if the friend had a genuine health problem?",
+      "Why is academic integrity relevant to clinical professionalism?"
+    ],
+    "model_answers": [
+      "I would refuse clearly and privately. Scanning the code would create a false attendance record and conceal a missed compulsory learning activity, so it is not a harmless favour. I would avoid a moralising lecture, but I would explain that both of us could face consequences and that the course needs accurate records to confirm competence and provide support. I would encourage my friend to contact the session coordinator promptly and describe the situation honestly. If the skill is safety-critical, they should arrange remediation before using it in practice. Friendship can include understanding pressure and helping solve the problem, but it should not require me to falsify information or undermine standards.",
+      "I would help them draft a concise message to the coordinator, identify the formal process for missed sessions, and plan how to catch up. We could review their workload and explore academic support if competing deadlines are becoming unmanageable. I might share notes where permitted, but I would not substitute for required supervised practice or misrepresent their participation. If exhaustion is recurring, I would encourage them to speak with wellbeing or learning services and consider realistic scheduling changes. I would keep the matter private except where policy or safety requires escalation. Support is most useful when it helps a friend address the cause and restore compliance, rather than temporarily hiding a problem that is likely to recur.",
+      "A genuine health problem would increase the need for compassion and reasonable adjustment, but it would not make a false attendance record appropriate. I would encourage the friend to use the course's illness or special-consideration process, disclose only the information required, and arrange an alternative session when well. If they were acutely unwell, their immediate health and safe transport might take priority. I would not demand proof myself or assume they were exaggerating. Accurate records allow the institution to respond fairly and ensure missed competencies are completed. The reason for absence changes what support and flexibility may be justified; it does not change the honesty of claiming attendance that did not occur.",
+      "Academic integrity develops habits of truthful documentation, ownership of mistakes, and respect for standards that later protect patients. In clinical practice, colleagues depend on records stating that an assessment occurred, a medicine was given, or a competency was completed. Small falsifications can normalise concealment and make it harder to speak honestly when stakes rise. Attendance alone does not prove competence, but deliberately corrupting the record removes an important safeguard. Integrity also supports fairness among students who meet requirements or use formal support pathways. The relevant lesson is not that every rule is perfect; professionals can challenge unreasonable rules openly. It is that convenience or loyalty does not justify secretly making evidence unreliable."
+    ],
+    "rubric_focus": [
+      "academic integrity",
+      "peer boundaries",
+      "supportive problem solving",
+      "professional trust"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "A Friend Wants a Private Diagnosis",
+    "category": "professionalism",
+    "difficulty": "medium",
+    "scenario": "A friend sends you a photograph of a changing skin lesion and asks whether it is cancer. They say they trust you more than their doctor and want advice before deciding whether to seek care. You are a medical student.",
+    "questions": [
+      "What would you tell your friend?",
+      "What risks arise from giving informal medical advice?",
+      "How could you help your friend access appropriate care?",
+      "How might your approach change in an apparent emergency?"
+    ],
+    "model_answers": [
+      "I would acknowledge their worry and trust, then explain that I cannot diagnose a changing lesion from a photograph and am not qualified to act as their clinician. I would recommend timely assessment by a general practitioner or appropriate service, especially because change is a reason for review. I would avoid declaring it benign or cancerous, interpreting the image beyond my competence, or forwarding it to others. I would also point out that messaging is not a secure clinical record and ask them not to send further sensitive images. I can support them as a friend by helping organise care and listening, while preserving a clear boundary between friendship and medical practice.",
+      "Informal advice lacks a full history, examination, appropriate imaging quality, documentation, follow-up, and independent clinical judgment. My relationship with the friend could bias both of us, while reassurance may delay diagnosis and alarm may create unnecessary distress. Privacy can be compromised when health images sit in personal messaging or cloud backups. The friend may also misunderstand a tentative comment as professional certainty because of my medical training. If an outcome were poor, blurred roles could damage trust and expose both of us to harm. Staying within competence is not evasive; it directs the person toward a setting where consent, assessment, records, supervision, and continuity support safer decisions.",
+      "I would ask whether practical or emotional barriers are stopping them from booking, without turning that conversation into an assessment. If they fear dismissal, I could help them write down changes they noticed, dates, relevant history, and questions for the clinician. I could locate publicly available booking options, after-hours services, or cost supports and accompany them if they wanted. I would encourage them to mention the lesion's change when requesting an appointment so the service can triage appropriately. I would not use personal contacts to bypass fair access or access their record. My role is to reduce barriers and support communication while leaving diagnosis and management to an accountable clinician.",
+      "If the message suggested an immediate emergency, such as severe breathing difficulty, collapse, uncontrolled bleeding, or rapidly worsening serious symptoms, I would advise contacting emergency services or attending emergency care now rather than arranging a routine appointment. I would confirm their location if necessary for emergency assistance, stay connected if safe, and involve someone nearby. I would still avoid diagnosing or attempting complex remote treatment beyond basic first-aid guidance I am trained to provide. Once professional help was engaged, I would not interfere with it. Urgency changes the pathway and the speed of action, but it does not expand my competence or turn a personal messaging exchange into appropriate clinical care."
+    ],
+    "rubric_focus": [
+      "scope of practice",
+      "dual relationships",
+      "privacy",
+      "safe referral"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "When a Family Member Interprets",
+    "category": "cultural_sensitivity",
+    "difficulty": "hard",
+    "scenario": "A patient with limited English attends with an adult son. The son answers every question and says a professional interpreter is unnecessary because he knows his mother best. The patient remains quiet and avoids eye contact.",
+    "questions": [
+      "What concerns would you consider?",
+      "How would you offer an interpreter respectfully?",
+      "What if the patient says they prefer the son to interpret?",
+      "How can clinicians avoid stereotyping while responding to cultural and family preferences?"
+    ],
+    "model_answers": [
+      "I would consider whether the patient understands, can express her own preferences, and has privacy to discuss sensitive issues. Family interpretation can introduce omissions, altered meaning, conflicts of interest, role strain, and reduced confidentiality, even when the son is caring and accurate. Her quietness could reflect language, family dynamics, respect, anxiety, hearing, or personal preference; I should not assume coercion from eye contact alone. A professional interpreter improves accuracy and allows direct communication, while the son can still provide valued support with consent. I would also assess urgency and decision-making capacity through appropriate communication. The core issue is preserving the patient's voice without dismissing the family's role or cultural context.",
+      "I would address the patient directly, use simple language, and arrange a professional interpreter in her preferred language and, where possible, preferred gender. I might explain that the service routinely offers interpreters for important health conversations so patients can hear information accurately and family members can focus on support. Framing it as a standard safety practice reduces the suggestion that I distrust the son. I would ask the patient's permission to use the interpreter and whether she wants her son to remain. I would not ask the son alone to decide. If needed, I could request a brief private conversation as routine practice, while explaining this respectfully to both people and maintaining physical safety.",
+      "I would explore the preference through the professional interpreter if possible, ensuring the patient understands that interpretation is free, confidential, and does not exclude her son. Competent adults can involve family in ways they choose, so I would not automatically override a genuine informed preference. However, for complex consent, safeguarding, mental health, reproductive health, or other sensitive matters, professional interpretation may remain necessary for accuracy and organisational policy. We could use the interpreter for clinical content while the son supports discussion. If the patient continued to decline, I would document the conversation, assess whether valid consent is possible, and seek senior guidance rather than proceed with important decisions on uncertain communication.",
+      "Clinicians should ask individuals how they want information shared, who should participate, and what communication practices matter to them, rather than treating a cultural group as a script. Family involvement may express care and shared decision-making, but preferences vary within every community and can change by topic. I would use cultural humility: recognise my assumptions, ask respectful open questions, and check meaning. I should distinguish culturally different behaviour from evidence of incapacity or coercion while remaining alert to safety. Professional interpreters, private options, and direct questions create choices rather than impose an individualistic model. Cultural responsiveness means adapting care with the patient, not guessing their values based on language, clothing, or background."
+    ],
+    "rubric_focus": [
+      "professional interpreting",
+      "patient autonomy",
+      "family involvement",
+      "cultural humility"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "Treatment During a Religious Fast",
+    "category": "cultural_sensitivity",
+    "difficulty": "medium",
+    "scenario": "A competent adult with diabetes is fasting for a religious observance and wishes to continue despite episodes of dizziness. A staff member says the patient is being irrational and should simply be told to stop fasting.",
+    "questions": [
+      "How would you approach the patient?",
+      "How would you respond to the staff member's comment?",
+      "What if the patient chooses to continue fasting after understanding the risks?",
+      "How can services prepare for care during religious observances?"
+    ],
+    "model_answers": [
+      "I would speak with the patient privately and respectfully, using an interpreter if needed, and ask what the fast means to them, its timing, and what flexibility their tradition may permit. I would assess the dizziness and diabetes urgently enough to exclude immediate danger, then explain risks and options in clear, individualised terms. Possibilities might include medication or meal-timing adjustments, closer glucose monitoring, temporary exemption, or advice from a trusted faith leader, but these require qualified clinical planning. I would not assume religion is the only influence or pressure the patient to justify belief. Shared decision-making begins by understanding both the health concern and the value the patient is trying to preserve.",
+      "I would challenge the wording calmly, preferably away from the patient. Calling the patient irrational dismisses a meaningful value and may damage trust before we have assessed capacity or explored alternatives. I would suggest that we focus on the specific risks, the patient's understanding, and ways to make the observance safer. Respecting belief does not require withholding medical advice, and recommending interruption may be appropriate if risk is high, but the explanation should be collaborative rather than coercive. I would invite support from clinicians experienced in diabetes and, with the patient's permission, culturally or spiritually appropriate services. If dismissive behaviour continued or affected care, I would raise it through supervision.",
+      "If the patient has decision-making capacity, understands the material risks and alternatives, and is free from coercion, they may make a choice clinicians consider unwise. I would confirm understanding with teach-back, explore whether any acceptable compromise exists, and clearly recommend the safest option without threats or abandonment. We should create a harm-reduction plan: warning symptoms, monitoring, medication guidance from the treating clinician, when to break the fast, emergency contacts, and prompt follow-up. I would document the discussion and reassess capacity if their condition changed. Respect for autonomy does not mean passive agreement; it means providing careful advice and ongoing care while accepting an informed refusal within legal and professional limits.",
+      "Services can ask about religious observances in advance without assuming every member participates in the same way. They can develop evidence-based pathways for medication timing, fasting risk assessment, nutrition, and emergency advice, with input from patients, faith communities, pharmacists, and relevant clinicians. Staff education should combine cultural humility with clinical safety and avoid presenting religious practice as non-compliance. Flexible appointment times, translated information, interpreters, private spaces, and access to spiritual care may help. Plans should remain individual because beliefs, exemptions, and health risks differ. Reviewing incidents and patient feedback can improve the pathway. Preparation turns a predictable issue into coordinated care rather than a last-minute conflict between identity and safety."
+    ],
+    "rubric_focus": [
+      "respect for beliefs",
+      "informed refusal",
+      "harm reduction",
+      "shared decision-making"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "A Trauma-Informed First Appointment",
+    "category": "cultural_sensitivity",
+    "difficulty": "hard",
+    "scenario": "A recently resettled refugee becomes visibly distressed when asked detailed questions about past injuries. The appointment is running late, and a clinician says the complete history must be obtained today because another appointment may be difficult to arrange.",
+    "questions": [
+      "What should be your immediate response to the patient's distress?",
+      "What does trauma-informed communication involve?",
+      "How would you balance incomplete information with clinical safety?",
+      "What service-level barriers may affect refugee health access?"
+    ],
+    "model_answers": [
+      "I would pause the questioning, acknowledge the distress, and ask what the patient needs to feel safe. I would remind them that they can take a break, decline a question, or return to a topic later, while explaining any information that is immediately necessary for care. A professional interpreter should be offered, with attention to language, dialect, gender, and confidentiality. I would not ask for traumatic details out of curiosity or assume that disclosure is therapeutic. If acute medical or psychological risk were apparent, I would seek appropriate help. Time pressure is real, but pushing through visible distress may retraumatise the patient, reduce accuracy, and make future engagement less likely.",
+      "Trauma-informed communication assumes that trauma may affect safety, trust, memory, control, and responses to authority without reducing the person to a trauma history. I would explain my role and the purpose of questions, seek permission before sensitive topics or examination, offer choices where possible, and proceed predictably. I would use a calm tone, avoid repeated unnecessary retelling, and check whether the interpreter or room arrangement feels safe. Strengths, current goals, and practical needs deserve attention alongside past harm. I should not promise outcomes or confidentiality beyond real limits. The principles are safety, trustworthiness, collaboration, choice, empowerment, and cultural humility, applied individually rather than through assumptions about all refugees.",
+      "I would identify the minimum information required to address immediate risks, such as current symptoms, urgent injuries, medicines, allergies, suicidality, or safeguarding concerns, and explain why those questions matter. Non-urgent history can be staged across planned follow-up, ideally with continuity and access to existing records to avoid repetition. If the patient declines essential information, the clinician should explain how uncertainty limits safe decisions and offer the safest feasible alternatives. I would document what was and was not assessed without attributing blame. A longer appointment, trusted support person with consent, specialist refugee service, or coordinated multidisciplinary review may help. Safety is supported by prioritisation and continuity, not by forcing completeness in one encounter.",
+      "Barriers may include language, transport, cost, unfamiliar health systems, digital exclusion, unstable housing, childcare, work constraints, limited records, and fear arising from past authority or healthcare experiences. Visa conditions and uncertainty can worsen stress, while racism and culturally unsafe care may deter return. Interpreter availability and fragmented referrals can turn each appointment into repeated disclosure. Services can respond with professional interpreters, flexible longer appointments, navigation support, continuity, integrated mental and physical healthcare, and partnerships with settlement and community organisations. Staff need training without expecting refugees to educate them. Data should identify missed access while protecting privacy. Effective care addresses practical conditions and institutional trust, not only individual communication technique."
+    ],
+    "rubric_focus": [
+      "trauma-informed care",
+      "consent and choice",
+      "clinical prioritisation",
+      "access barriers"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "Choosing a Population Screening Program",
+    "category": "decision_making",
+    "difficulty": "hard",
+    "scenario": "A health department is considering a new population screening program for a serious but uncommon disease. The test detects many early cases but also produces frequent false positives, leading to anxiety and invasive follow-up procedures.",
+    "questions": [
+      "What information is needed before recommending the program?",
+      "How would you weigh benefits and harms?",
+      "How should uncertainty be communicated to the public?",
+      "What conditions should apply if the program is introduced?"
+    ],
+    "model_answers": [
+      "I would need evidence on disease prevalence and natural history, test sensitivity and specificity, positive predictive value in the target population, and whether detecting disease earlier improves meaningful outcomes rather than only diagnosis time. I would examine harms from false positives, false negatives, overdiagnosis, invasive follow-up, labelling, and inequitable access. Costs, workforce capacity, quality assurance, acceptability, and alternatives also matter. Evidence should come from representative studies and, ideally, trials or robust evaluations of the complete screening pathway. I would ask which groups were underrepresented and whether prevalence changes the balance. A technically accurate test is insufficient if treatment is ineffective or the health system cannot deliver safe confirmation and care.",
+      "I would compare absolute numbers for a defined population: serious outcomes prevented, true cases found, false alarms, complications, and resources diverted. Benefits and harms should be weighted by severity, duration, reversibility, and distribution, not merely counted as equal events. I would consider whether informed individual choice can mitigate preference-sensitive harms and whether disadvantaged groups might bear more follow-up burden while receiving less benefit. Scenario and sensitivity analyses can show how conclusions change with uncertain assumptions. I would also compare targeted screening of higher-risk groups with universal screening. A recommendation should state the value judgments explicitly and acknowledge opportunity cost, because funding this program means not funding another health intervention.",
+      "Public communication should explain the disease, purpose of screening, and difference between screening and diagnosis in plain language. Absolute frequencies can show that even a sensitive test may yield many false positives when a disease is uncommon. Materials should present possible benefits, false reassurance, overdiagnosis, follow-up procedures, and the option to decline without pressure. I would be transparent about evidence quality, conflicts of interest, and what remains unknown, while avoiding sensational examples. Visual decision aids should be tested with diverse communities and available in accessible languages and formats. Trust is supported by consistency and correction when evidence changes, not by overstating certainty to maximise uptake.",
+      "Introduction should be conditional on validated testing, evidence of net benefit, informed consent, equitable access to confirmation and treatment, trained staff, data governance, and independent quality oversight. A phased or pilot rollout could measure uptake, false-positive procedures, stage at diagnosis, health outcomes, psychological impact, cost, and disparities. Predefined thresholds should trigger modification or suspension. Participants need timely results, navigation, and support during follow-up; screening without diagnostic capacity is unethical. Governance should include patient and community representatives and publish outcomes transparently. The program should have a scheduled review as prevalence, technology, and treatments change. Implementation is not the end of the decision but the start of continuous evaluation."
+    ],
+    "rubric_focus": [
+      "evidence appraisal",
+      "benefit-harm balance",
+      "risk communication",
+      "adaptive policy"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "Bias in an AI Triage Tool",
+    "category": "decision_making",
+    "difficulty": "hard",
+    "scenario": "An emergency department pilots an AI tool that predicts which patients need urgent review. Early data show improved average waiting times, but patients from one language-minority group are under-triaged more often. A manager argues that the tool is still better overall than current practice.",
+    "questions": [
+      "What should happen now?",
+      "How would you evaluate whether the tool is safe and fair?",
+      "Who is accountable when an AI-supported decision causes harm?",
+      "Under what conditions could use of the tool resume or continue?"
+    ],
+    "model_answers": [
+      "The disparity is a credible safety signal, so I would not continue unchanged while collecting more harm. The hospital should activate clinical governance, notify relevant oversight groups, and consider pausing the tool or disabling affected functions until risk is contained. Clinicians must retain an accessible route to override scores and prioritise direct assessment. The team should examine whether language, missing data, workflow, or training distribution drives the error and review any adverse cases. Patients and staff from the affected community should be involved in the response. Better average performance does not justify a predictable burden on one group, particularly when triage delay can be serious and the group may already face access barriers.",
+      "I would compare sensitivity, specificity, calibration, false-negative rates, waiting times, and clinical outcomes across relevant groups and intersections, using adequate sample sizes and confidence intervals. Performance should be compared with usual clinician triage, not an imaginary perfect standard, but aggregate accuracy must not hide subgroup harm. I would examine data quality, missingness, proxy variables, distribution shifts, interpreter use, and how staff interact with recommendations. Independent external validation, prospective monitoring, usability testing, and qualitative feedback are needed. Fairness includes access and downstream care, not only the model score. The evaluation plan and acceptable thresholds should be defined before deployment and reviewed by clinical, technical, ethics, and community stakeholders.",
+      "Accountability remains distributed but cannot disappear into the algorithm. Clinicians are responsible for using tools within training and responding to obvious clinical concerns, yet they should not bear sole blame for hidden design defects. Developers are accountable for evidence, documentation, known limitations, and updates; hospital leaders for procurement, validation, workflow, staffing, and monitoring; regulators for appropriate standards; and vendors for contractual transparency and incident response. Patients need a clear route for explanation, complaint, remedy, and human review. Precise responsibility depends on the event, but naming roles in advance matters. Calling AI merely advisory is inadequate if workload or policy makes its recommendation functionally decisive in practice.",
+      "Use could resume only after the cause is investigated, risk is reduced to predefined clinically acceptable levels across groups, and independent validation confirms the improvement in the local population. Conditions should include trained human oversight, prominent limitations, interpreters and alternate pathways, reliable override without penalty, audit logs, incident reporting, cybersecurity, and continuous subgroup monitoring. A limited, reversible rollout with stop criteria is safer than immediate full deployment. Patients and affected communities should help define acceptable outcomes and communication. The hospital must ensure that commercial secrecy does not prevent meaningful evaluation. If equitable safety cannot be demonstrated, efficiency gains are insufficient and the tool should not be used for high-stakes triage."
+    ],
+    "rubric_focus": [
+      "algorithmic bias",
+      "clinical governance",
+      "distributed accountability",
+      "equity-sensitive evaluation"
+    ],
+    "source_type": "original_ai_reviewed"
+  },
+  {
+    "title": "Family Disagreement About an Incapacitated Patient",
+    "category": "decision_making",
+    "difficulty": "hard",
+    "scenario": "An unconscious patient has no documented advance care directive. Their adult children disagree: one wants every possible life-prolonging intervention, while another says the patient repeatedly expressed that they would not want prolonged dependence. The treating team asks for a family meeting.",
+    "questions": [
+      "What should guide decision-making for this patient?",
+      "How would you structure the family meeting?",
+      "What if the disagreement remains unresolved?",
+      "How can clinicians encourage advance care planning before crises occur?"
+    ],
+    "model_answers": [
+      "The starting point is the patient's autonomy, reconstructed through any reliable prior wishes, values, beliefs, and acceptable outcomes, alongside applicable law about substitute decision-makers. The task is not to ask which child wants more treatment or to transfer a purely medical decision to the family. Clinicians should explain prognosis, realistic options, burdens, benefits, and which treatments are clinically indicated. If the patient's preferences remain unknown, decisions should focus on overall benefit and best interests, including comfort, dignity, and proportionality. I would verify whether other documents or people can clarify the patient's views and ensure reversible causes and uncertainty are addressed. Family distress deserves support but cannot replace the patient's perspective.",
+      "I would arrange a private meeting with the relevant senior clinician, nursing input, interpreter or cultural support if needed, and the legally recognised substitute decision-maker. After introductions, I would state a shared purpose: making the best decision for the patient based on who they are. I would ask family members what they understand, correct gaps with clear medical information, and invite concrete examples of the patient's prior statements and values. I would acknowledge emotions and areas of agreement, summarise without taking sides, and distinguish comfort care from abandonment. The meeting should end with a documented plan, uncertainties, review point, and contact person, allowing time for questions rather than forcing consensus through pressure.",
+      "If disagreement persists, I would clarify whether it concerns facts, prognosis, values, legal authority, trust, or grief, because each requires a different response. A second clinical opinion, repeated meeting, social work, spiritual care, cultural liaison, palliative care, or ethics consultation may help. The team should continue appropriate care and avoid burdensome escalation merely because conflict exists. If an urgent decision is required, the legally authorised process and the patient's best available interests guide action. For entrenched disputes, formal mediation, organisational review, guardianship mechanisms, or court involvement may be necessary. Throughout, staff should communicate consistently, document reasoning, and avoid characterising relatives as difficult when they may be processing profound uncertainty and loss.",
+      "Clinicians can normalise advance care planning as part of routine care, especially after diagnosis of serious illness, changes in function, or transitions in care, rather than waiting for imminent death. Conversations should explore values, unacceptable outcomes, trusted substitute decision-makers, and how preferences may change, not reduce planning to resuscitation forms. Information should be culturally responsive, accessible, revisited over time, and shared across relevant records with consent. Patients can be encouraged to discuss plans with family so documents are understood in context. Health systems need prompts, trained staff, protected time, and interoperable storage. Good planning cannot predict every treatment, but it gives future decision-makers a clearer compass and reduces avoidable conflict."
+    ],
+    "rubric_focus": [
+      "substituted judgment",
+      "best interests",
+      "family facilitation",
+      "advance care planning"
+    ],
+    "source_type": "original_ai_reviewed"
+  }
+]

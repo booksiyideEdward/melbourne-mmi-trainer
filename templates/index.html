@@ -1,0 +1,420 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f7f9fc" />
+    <meta
+      name="description"
+      content="University of Melbourne MMI timed interview practice with recording, transcription and coaching feedback."
+    />
+    <title>Melbourne MMI Studio</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}" />
+    <script defer src="{{ url_for('static', filename='app.js') }}"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to main content</a>
+
+    <header class="site-header">
+      <a class="brand" href="#" id="brand-home" aria-label="Melbourne MMI Studio home">
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 24 24">
+            <rect class="brand-tile brand-tile--blue" x="2" y="2" width="9" height="9" rx="2" />
+            <rect class="brand-tile brand-tile--red" x="13" y="2" width="9" height="9" rx="2" />
+            <rect class="brand-tile brand-tile--yellow" x="2" y="13" width="9" height="9" rx="2" />
+            <rect class="brand-tile brand-tile--green" x="13" y="13" width="9" height="9" rx="2" />
+          </svg>
+        </span>
+        <span>
+          <strong>Melbourne MMI</strong>
+          <small>Practice studio</small>
+        </span>
+      </a>
+
+      <nav class="main-nav" aria-label="Primary navigation">
+        <button class="nav-button is-active" type="button" data-route="train">
+          <svg viewBox="0 0 20 20" aria-hidden="true"><path d="m6.5 4 8 6-8 6V4Z" /></svg>
+          Practice
+        </button>
+        <button class="nav-button" type="button" data-route="history">
+          <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M10 5v5l3 2M3.5 5.5V2.8M3.5 2.8h2.7M4.2 15.7A7 7 0 1 0 3.5 5" /></svg>
+          History
+        </button>
+      </nav>
+
+      <div class="runtime-status" aria-label="Runtime status">
+        <span class="sandbox-chip" title="Local practice access">
+          <span class="privacy-dot" aria-hidden="true"></span>
+          <span id="sandbox-entitlement">Free · open source</span>
+        </span>
+        <span class="runtime-provider-summary" id="runtime-provider-summary" title="Local API configuration">AI config · checking</span>
+      </div>
+    </header>
+
+    <main id="main-content">
+      <section class="app-view setup-view" id="setup-view" aria-labelledby="setup-title">
+        <div class="setup-shell">
+          <div class="setup-intro">
+            <p class="eyebrow"><span></span> MELBOURNE MD INTERVIEW PRACTICE</p>
+            <h1 id="setup-title">Think clearly.<br /><em>Answer with purpose.</em></h1>
+            <p class="intro-copy">
+              One scenario, four connected questions, and the same timed rhythm from start to finish. Review your transcript, then receive focused coaching.
+            </p>
+
+            <div class="format-strip" aria-label="Rapid 4 timing format">
+              <div><strong>60</strong><span>sec scenario</span></div>
+              <i aria-hidden="true"></i>
+              <div><strong>15</strong><span>sec prepare</span></div>
+              <i aria-hidden="true"></i>
+              <div><strong>60</strong><span>sec answer</span></div>
+              <div class="times-four">× 4</div>
+            </div>
+
+            <div class="trust-note">
+              <span>Practice coaching, not an admissions prediction.</span>
+            </div>
+          </div>
+
+          <aside class="launch-card" aria-labelledby="launch-title">
+            <div class="launch-card-head">
+              <div>
+                <p class="card-kicker">NEW SESSION</p>
+                <h2 id="launch-title">Start a station</h2>
+              </div>
+              <span class="session-length">~ 6 min</span>
+            </div>
+
+            <div class="form-group">
+              <div class="field-label-row">
+                <label for="station-search">Choose a station</label>
+                <button class="text-button" type="button" id="random-station">
+                  <svg viewBox="0 0 18 18" aria-hidden="true"><path d="M3 5h2.2c3.8 0 3.8 8 7.6 8H15M12.5 2.8 15 5l-2.5 2.2M3 13h2.2c1.6 0 2.6-1.4 3.5-3M12.5 10.8 15 13l-2.5 2.2" /></svg>
+                  Random station
+                </button>
+              </div>
+              <div class="search-field">
+                <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.3" /><path d="m12.5 12.5 4 4" /></svg>
+                <input id="station-search" type="search" inputmode="numeric" autocomplete="off" placeholder="Find by station number" />
+                <span class="station-count" id="station-count">…</span>
+              </div>
+
+              <div class="station-list-wrap">
+                <div class="station-list" id="station-list" role="listbox" aria-label="Station list">
+                  <div class="station-skeleton"><span></span><span></span></div>
+                  <div class="station-skeleton"><span></span><span></span></div>
+                </div>
+                <button class="list-retry" type="button" id="retry-stations" hidden>Try again</button>
+              </div>
+            </div>
+
+            <div class="form-group mode-group">
+              <span class="field-label">Practice mode</span>
+              <div class="segmented" role="radiogroup" aria-label="Practice mode">
+                <label>
+                  <input type="radio" name="session-mode" value="simulation" checked />
+                  <span>Simulation</span>
+                </label>
+                <label>
+                  <input type="radio" name="session-mode" value="guided" />
+                  <span>Guided</span>
+                </label>
+              </div>
+              <p class="mode-note" id="mode-note">Complete all four questions without pausing, then review the full station.</p>
+            </div>
+
+            <div class="sandbox-panel" aria-label="Service status">
+              <div class="sandbox-panel-head">
+                <span><i aria-hidden="true"></i> LOCAL PRACTICE</span>
+                <strong id="sandbox-panel-entitlement">Unlimited local practice</strong>
+              </div>
+              <div class="provider-badges">
+                <span class="provider-badge is-checking" id="deepseek-status"><i aria-hidden="true"></i>DeepSeek checking</span>
+                <span class="provider-badge is-checking" id="deepgram-status"><i aria-hidden="true"></i>Deepgram checking</span>
+              </div>
+            </div>
+
+            <button class="primary-button primary-button--wide" type="button" id="continue-to-mic" disabled>
+              <span>Continue to microphone check</span>
+              <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M4 10h11M11 6l4 4-4 4" /></svg>
+            </button>
+          </aside>
+        </div>
+      </section>
+
+      <section class="app-view focus-view" id="mic-view" hidden aria-labelledby="mic-title">
+        <div class="focus-frame mic-frame">
+          <button class="back-button" type="button" data-back-to-setup>
+            <svg viewBox="0 0 18 18" aria-hidden="true"><path d="m11 4-5 5 5 5" /></svg>
+            Back to stations
+          </button>
+          <div class="mic-card">
+            <p class="step-label">SETUP · 01</p>
+            <h1 id="mic-title">Make sure your voice comes through clearly</h1>
+            <p class="mic-copy">Allow microphone access, then say a sentence at your normal interview volume.</p>
+
+            <div class="mic-visual" id="mic-visual" aria-hidden="true">
+              <div class="mic-orbit mic-orbit--one"></div>
+              <div class="mic-orbit mic-orbit--two"></div>
+              <div class="mic-icon">
+                <svg viewBox="0 0 32 32"><rect x="11" y="4" width="10" height="16" rx="5" /><path d="M7.5 15.5a8.5 8.5 0 0 0 17 0M16 24v4M11 28h10" /></svg>
+              </div>
+            </div>
+
+            <div class="level-meter" aria-label="Microphone level">
+              <div class="level-meter-fill" id="level-meter-fill"></div>
+            </div>
+            <p class="mic-status" id="mic-status" role="status">Microphone not checked</p>
+
+            <div class="mic-actions">
+              <button class="secondary-button" type="button" id="check-mic">
+                <svg viewBox="0 0 20 20" aria-hidden="true"><rect x="7" y="2.5" width="6" height="10" rx="3" /><path d="M4.5 10a5.5 5.5 0 0 0 11 0M10 15.5v2M7 17.5h6" /></svg>
+                Check microphone
+              </button>
+              <button class="primary-button" type="button" id="begin-session" disabled>
+                Start 60-second scenario
+                <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M4 10h11M11 6l4 4-4 4" /></svg>
+              </button>
+            </div>
+            <button class="text-button text-button--muted" type="button" id="text-only-mode">No microphone? Continue in transcript-only mode</button>
+          </div>
+        </div>
+      </section>
+
+      <section class="app-view focus-view session-view" id="session-view" hidden aria-labelledby="session-phase-title">
+        <div class="session-topbar">
+          <div class="session-identity">
+            <span class="station-number" id="session-station-number">STATION</span>
+          </div>
+          <div class="session-progress" aria-label="Four-question progress">
+            <span data-progress="0"></span>
+            <span data-progress="1"></span>
+            <span data-progress="2"></span>
+            <span data-progress="3"></span>
+          </div>
+          <button class="quiet-button" type="button" id="leave-session">
+            <svg viewBox="0 0 18 18" aria-hidden="true"><path d="m4 4 10 10M14 4 4 14" /></svg>
+            Leave
+          </button>
+        </div>
+
+        <div class="session-stage">
+          <div class="phase-meta">
+            <span class="phase-pill" id="phase-pill">READ SCENARIO</span>
+            <span class="recording-indicator" id="recording-indicator" hidden><i></i> REC</span>
+          </div>
+
+          <div class="timer-wrap" id="timer-wrap">
+            <svg class="timer-ring" viewBox="0 0 132 132" aria-hidden="true">
+              <circle class="timer-track" cx="66" cy="66" r="59" />
+              <circle class="timer-progress-ring" id="timer-ring-progress" cx="66" cy="66" r="59" />
+            </svg>
+            <div class="timer-copy">
+              <strong id="timer-seconds">60</strong>
+              <span>SEC</span>
+            </div>
+          </div>
+
+          <p class="phase-overline" id="phase-overline">SCENARIO</p>
+          <h1 id="session-phase-title">Read the scenario</h1>
+
+          <article class="prompt-card" id="prompt-card">
+            <div class="prompt-category" id="prompt-category">—</div>
+            <p id="prompt-text">—</p>
+          </article>
+
+          <div class="strict-hidden-card" id="strict-hidden-card" hidden>
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 12s3.3-5 9-5 9 5 9 5-3.3 5-9 5-9-5-9-5Z" /><circle cx="12" cy="12" r="2.5" /><path d="m4 4 16 16" /></svg>
+            <strong>Question hidden</strong>
+            <span>Use your 15-second plan and answer from memory.</span>
+          </div>
+
+          <aside class="coach-cue" id="coach-cue" hidden>
+            <span>STRUCTURE CUE</span>
+            <p>Answer directly, develop one or two reasons, then close with a concrete action.</p>
+          </aside>
+
+          <p class="phase-hint" id="phase-hint">Question 1 begins automatically when the scenario timer ends.</p>
+
+          <button class="secondary-button session-action" type="button" id="phase-action">I’m ready — start question 1</button>
+        </div>
+      </section>
+
+      <section class="app-view review-view" id="review-view" hidden aria-labelledby="review-title">
+        <div class="review-shell">
+          <div class="review-heading">
+            <div>
+              <p class="eyebrow"><span></span> TRANSCRIPT REVIEW</p>
+              <h1 id="review-title">Your four answers are complete</h1>
+              <p>Review each transcript before scoring. Your edits become the version used for coaching.</p>
+            </div>
+            <div class="review-summary-chip">
+              <span>4 / 4</span>
+              <small>answered</small>
+            </div>
+          </div>
+
+          <section class="scenario-recap" aria-labelledby="review-scenario-title">
+            <div class="scenario-recap-head">
+              <div>
+                <p class="panel-kicker">ORIGINAL PROMPT</p>
+                <h2 id="review-scenario-title">Original scenario</h2>
+              </div>
+              <span id="review-scenario-station">Station</span>
+            </div>
+            <p class="scenario-recap-text" id="review-scenario-text">—</p>
+          </section>
+
+          <div class="transcript-grid" id="transcript-grid"></div>
+
+          <div class="review-footer">
+            <div class="review-privacy">
+              <svg viewBox="0 0 20 20" aria-hidden="true"><rect x="4.5" y="8.5" width="11" height="8" rx="2" /><path d="M7 8.5V6a3 3 0 0 1 6 0v2.5" /></svg>
+              <span>Coaching uses the station and your confirmed transcript.</span>
+            </div>
+            <button class="primary-button" type="button" id="evaluate-attempt">
+              <span>Save &amp; generate coaching</span>
+              <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M4 10h11M11 6l4 4-4 4" /></svg>
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <section class="app-view loading-view" id="evaluation-loading-view" hidden aria-labelledby="evaluation-loading-title">
+        <div class="evaluation-loader">
+          <div class="loader-mark" aria-hidden="true"><span></span><span></span><span></span><span></span></div>
+          <p class="step-label">COACHING REVIEW</p>
+          <h1 id="evaluation-loading-title">Building your coaching review…</h1>
+          <p id="evaluation-loading-copy">Comparing all four answers for clarity, structure, empathy, and professional judgement.</p>
+          <div class="loading-steps" aria-hidden="true">
+            <span class="is-done">Transcript</span><i></i><span class="is-active">Analysis</span><i></i><span>Coaching</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="app-view results-view" id="results-view" hidden aria-labelledby="results-title">
+        <div class="results-shell">
+          <div class="results-topline">
+            <button class="back-button" type="button" id="new-session-from-results">
+              <svg viewBox="0 0 18 18" aria-hidden="true"><path d="m11 4-5 5 5 5" /></svg>
+              New practice
+            </button>
+            <button class="quiet-button" type="button" id="open-history-from-results">View history</button>
+          </div>
+
+          <div class="result-hero">
+            <div class="result-score" id="result-score-wrap">
+              <svg viewBox="0 0 144 144" aria-hidden="true">
+                <defs>
+                  <linearGradient id="score-spectrum" x1="0" y1="0" x2="1" y2="1">
+                    <stop offset="0%" stop-color="#4285f4" />
+                    <stop offset="34%" stop-color="#ea4335" />
+                    <stop offset="66%" stop-color="#f9ab00" />
+                    <stop offset="100%" stop-color="#34a853" />
+                  </linearGradient>
+                </defs>
+                <circle class="score-track" cx="72" cy="72" r="62" />
+                <circle class="score-ring" id="score-ring" cx="72" cy="72" r="62" />
+              </svg>
+              <div><strong id="result-score">—</strong><span>/ 10</span></div>
+            </div>
+            <div class="result-hero-copy">
+              <p class="eyebrow"><span></span> PRACTICE COACHING SCORE</p>
+              <h1 id="results-title">Station review · 这一站的反馈</h1>
+              <p id="result-summary">—</p>
+              <div class="result-meta" id="result-meta"></div>
+            </div>
+          </div>
+
+          <section class="scenario-recap" aria-labelledby="result-scenario-title">
+            <div class="scenario-recap-head">
+              <div>
+                <p class="panel-kicker">ORIGINAL PROMPT</p>
+                <h2 id="result-scenario-title">Original scenario</h2>
+              </div>
+              <span id="result-scenario-station">Station</span>
+            </div>
+            <p class="scenario-recap-text" id="result-scenario-text">—</p>
+          </section>
+
+          <div class="result-grid">
+            <section class="result-panel result-panel--focus" aria-labelledby="next-focus-title">
+              <p class="panel-kicker">NEXT REP</p>
+              <h2 id="next-focus-title">Next focus · 下一轮重点</h2>
+              <p id="next-focus">—</p>
+            </section>
+            <section class="result-panel" aria-labelledby="dimensions-title">
+              <div class="panel-heading-row">
+                <div>
+                  <p class="panel-kicker">DIMENSIONS</p>
+                  <h2 id="dimensions-title">Performance dimensions</h2>
+                </div>
+              </div>
+              <div class="dimension-list" id="dimension-list"></div>
+            </section>
+          </div>
+
+          <section class="question-feedback-section" aria-labelledby="question-feedback-title">
+            <div class="section-heading-row">
+              <div>
+                <p class="panel-kicker">QUESTION BY QUESTION</p>
+                <h2 id="question-feedback-title">Question review · 逐题复盘</h2>
+              </div>
+              <span id="repetition-note" class="repetition-note"></span>
+            </div>
+            <div class="feedback-list" id="feedback-list"></div>
+          </section>
+        </div>
+      </section>
+
+      <section class="app-view history-view" id="history-view" hidden aria-labelledby="history-title">
+        <div class="history-shell">
+          <div class="history-heading">
+            <div>
+              <p class="eyebrow"><span></span> PRACTICE LOG</p>
+              <h1 id="history-title">Practice history</h1>
+              <p>Use each completed station to spot patterns and track progress over time.</p>
+            </div>
+            <button class="primary-button" type="button" id="new-session-from-history">
+              <svg viewBox="0 0 20 20" aria-hidden="true"><path d="M10 4v12M4 10h12" /></svg>
+              New practice
+            </button>
+          </div>
+
+          <div class="history-stats" id="history-stats">
+            <div><span>Completed</span><strong id="history-count">—</strong><small>stations</small></div>
+            <div><span>Average</span><strong id="history-average">—</strong><small>/ 10</small></div>
+            <div><span>Recent trend</span><strong id="history-trend">—</strong><small id="history-trend-label">No data yet</small></div>
+          </div>
+
+          <div class="history-list-head">
+            <h2>Recent stations</h2>
+            <button class="text-button" type="button" id="refresh-history">Refresh</button>
+          </div>
+          <div class="history-list" id="history-list">
+            <div class="history-loading"><span></span><span></span><span></span></div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <div class="toast-region" id="toast-region" aria-live="polite" aria-atomic="true"></div>
+
+    <div class="modal-backdrop" id="exit-modal" hidden>
+      <section class="confirm-modal" role="dialog" aria-modal="true" aria-labelledby="exit-modal-title">
+        <div class="modal-icon">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 8v5M12 16.5v.1" /><path d="M10.2 3.8 2.8 17a2 2 0 0 0 1.7 3h15a2 2 0 0 0 1.7-3L13.8 3.8a2 2 0 0 0-3.6 0Z" /></svg>
+        </div>
+        <h2 id="exit-modal-title">Leave this practice?</h2>
+        <p>Your current recording and progress will not be saved.</p>
+        <div class="modal-actions">
+          <button class="secondary-button" type="button" id="cancel-exit">Keep practising</button>
+          <button class="danger-button" type="button" id="confirm-exit">Leave &amp; discard</button>
+        </div>
+      </section>
+    </div>
+
+    <noscript>
+      <div class="noscript-banner">JavaScript is required for timing and recording.</div>
+    </noscript>
+  </body>
+</html>
