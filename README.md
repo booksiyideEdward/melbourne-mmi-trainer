@@ -1,10 +1,10 @@
-# Melbourne MMI Trainer
+# Melbourne MMI Trainer · 墨尔本 MMI 面试练习工具
 
 Free, open-source interview practice that runs on your own computer. Bring your own speech-to-text and language-model API keys, practise a timed station, then review your transcript and coaching.
 
 **No subscription, no trial quota, no account required by this app.** API providers may charge for usage. The software and included practice bank are released under the MIT license.
 
-[中文说明](#中文说明) · [Adding stations with Codex](docs/ADDING_STATIONS.md)
+[English](README.md) | [完整中文版](README.zh-CN.md) · [Adding stations with Codex](docs/ADDING_STATIONS.md)
 
 ## What you get
 
@@ -49,6 +49,8 @@ python app.py
 Open **http://127.0.0.1:8765/** and allow microphone access. Keep the terminal running. Do not double-click `templates/index.html`: this app needs its Python server for assets, recordings, and API calls.
 
 ## The two APIs
+
+The author's working setup uses **DeepSeek for AI coaching and Deepgram for speech-to-text**. The instructions below follow that setup.
 
 | Provider | Used for | Configuration |
 | --- | --- | --- |
